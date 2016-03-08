@@ -1,0 +1,3894 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols>
+    <symbol alpha="1" type="marker" name="Abduction/kidnapping 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ú"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Advocacy 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="g"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Affected population 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="W"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Agriculture 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v=","/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Airport 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ğ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Airport affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="õ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Airport destroyed 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="÷"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Airport military 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ġ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Airport not affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ù"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Analysis 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="i"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Arrest/detention 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ü"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Assault 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Þ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Assembly point 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ć"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Assessment 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="k"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Attack 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="à"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Blanket 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="­"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Boat 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ģ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Border crossing 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ç"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Borehole 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Æ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Bottled water 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¯"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Bridge 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ĥ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Bridge affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="û"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Bridge destroyed 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ý"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Bridge not affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ÿ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Bucket/jerry can 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="±"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Buddhist temple 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ĉ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Building 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ċ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Building affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ā"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Building damaged 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ă"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Building not affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ą"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Bus 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ħ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Calendar 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¤"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Camp Coordination and Camp Management (CCCM) 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="!"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Car 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ĩ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Carjacking 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="â"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Chart 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¦"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Checkpoint 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="é"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Child combatant 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="e"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Children 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Z"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Church 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="č"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Civil-military coordination 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="m"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Clinic 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ď"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Clothing 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="³"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Cold wave 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="3"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Communal latrine 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="È"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Community building 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="đ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Computer 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="į"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Conflict 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="I"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Coordinated assessment 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="o"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Coordination 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="."/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Cyclone 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="5"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Damaged/affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ï"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Dangerous area 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ä"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Data 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¨"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Dead 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="["/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Debris management 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="M"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Deployment 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="q"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Destroyed 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ñ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Detergent 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="µ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Diplomatic mission 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ē"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Distribution site 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ĕ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Document 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ª"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Drought 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="7"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Drowned 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="_"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="E-mail 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ı"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Early Recovery 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="#"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Earthmound 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ë"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Earthquake 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="9"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Education 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="%"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Elderly 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="`"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Emergency Telecommunications 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="'"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Environment 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="0"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Epidemic 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v=";"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Fax 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ĳ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Ferry 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ī"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Film 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¬"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Financing 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="s"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Fire 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="="/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Fishery 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="2"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Flash flood 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="?"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Flood 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="A"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Flour 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="·"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Food 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¹"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Food Security 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v=")"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Food warehouse 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ė"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Forced entry 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="æ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Forced recruitment 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Û"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Fund 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="u"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Gap analysis 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="w"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Gas station 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ĭ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Government office 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ę"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Harassment/intimidation 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ý"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Health 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="+"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Health facility 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ě"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Health post 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ě"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Heatwave 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="C"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Heavy rain 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="E"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Helicopter 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ġ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Helipad 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ģ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Hindu temple 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ĝ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Hospital 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ĝ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Hotel 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ğ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="House 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ĉ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="House affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ð"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="House burned 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ß"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="House destroyed 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ò"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="House not affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ô"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Humanitarian access 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="J"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Humanitarian programme cycle 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="y"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="IDP/refugee camp 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ô"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Infant 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="X"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Infant formula 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="»"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Information management 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="{"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Information technology 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="}"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Infrastructure 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ċ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Injured 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="]"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Innovation 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¡"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Insect infestation 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="G"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Internet 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ĵ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Kitchen set 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="½"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Landslide/mudslide 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="4"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Latrine cabin 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ê"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Leadership 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="h"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Learning 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="j"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Livelihood 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="O"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Livestock 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Q"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Locust infestation 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="6"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Logistics 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&quot;"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Man 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="\"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Map 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¥"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Mattress 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¿"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Medical supply 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ã"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Medicine 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Á"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Meeting 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="l"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Military gate 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="í"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Mine 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="á"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Missing 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Y"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Mobile clinic 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Č"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Mobile phone 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="İ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Mosque 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ď"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Mosquito net 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Å"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Multi-cluster/sector 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="-"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Murder 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ã"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="NGO office 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Đ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="National army 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="a"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Needs assessment 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="n"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Non-food items 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="®"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Not affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ó"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Nutrition 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="$"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Observation tower 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="è"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Oil 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="°"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Partnership 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="p"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Peacekeeping force 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="f"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="People with physical impairments 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="d"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Permanent camp 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ö"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Photo 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="§"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Physical closure 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ê"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Plastic sheeting 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="²"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Police station 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ē"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Policy 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="r"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Population displacement 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="K"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Population growth 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="S"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Population return 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="L"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Port 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ĥ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Port affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ö"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Port destroyed 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ø"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Port not affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ú"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Potable water 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ì"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Potable water source 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Î"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Pregnant 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="b"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Preparedness 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="t"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Protection 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&amp;"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Public information 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="v"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Radio 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ĳ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Rebel 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="c"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Reconstruction 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="U"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Registration 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Õ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Relief goods 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="´"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Report 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="©"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Reporting 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="x"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Response 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="z"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Rice 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¶"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Road 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ħ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Road affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ü"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Road barrier 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="ì"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Road destroyed 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="þ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Road not affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ā"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Roadblock 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="î"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Robbery 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="å"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Rule of law and justice 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="/"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Rural 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="N"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Rural exodus 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="P"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Safety and security 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="1"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Salt 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¸"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Sanitation 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ð"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Scale up/down operation 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="|"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="School 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ĕ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="School affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ă"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="School destroyed 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ą"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="School not affected 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ć"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Services and tools 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="~"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Shelter 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="("/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Ship 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ĩ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Shower 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ò"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Snow avalanche 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="8"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Snowfall 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v=":"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Soap 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="º"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Solid waste 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ç"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Spontaneous site 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="×"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Spring water 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="É"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Staff management 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¢"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Storm 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Storm surge 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v=">"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Stove 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¼"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Submersible pump 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ë"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Sugar 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="¾"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Table 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="«"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Tarpaulin 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="À"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Technological disaster 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="@"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Temporary camp 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ø"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Tent 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Â"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Toilet 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Í"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Tornado 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="B"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Trade and market 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="R"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Train 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ī"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Training 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="£"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Transition site 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ù"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Truck 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ĭ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Tsunami 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="D"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Tunnel 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Į"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="UN compound/office 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ė"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="University 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ę"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Urban 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="T"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Urban/rural 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="V"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Vaccine 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ä"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Violent wind 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="F"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Volcano 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="H"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Walkie Talkie 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ĵ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Water source 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ï"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Water trucking 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ñ"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Water, Sanitation and Hygiene 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="*"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Well 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Ó"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" type="marker" name="Woman 1">
+      <layer pass="0" class="FontMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="^"/>
+        <prop k="color" v="2,108,182,255"/>
+        <prop k="font" v="OCHA Icons Unbounded"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="size" v="8"/>
+        <prop k="size_map_unit_scale" v="0,0"/>
+        <prop k="size_unit" v="MM"/>
+        <prop k="vertical_anchor_point" v="1"/>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+</qgis_style>
