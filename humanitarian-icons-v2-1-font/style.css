@@ -1,0 +1,1104 @@
+@font-face {
+  font-family: 'Humanitarian-Icons';
+  src:  url('fonts/Humanitarian-Icons.eot?bc2d6a');
+  src:  url('fonts/Humanitarian-Icons.eot?bc2d6a#iefix') format('embedded-opentype'),
+    url('fonts/Humanitarian-Icons.ttf?bc2d6a') format('truetype'),
+    url('fonts/Humanitarian-Icons.woff?bc2d6a') format('woff'),
+    url('fonts/Humanitarian-Icons.svg?bc2d6a#Humanitarian-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Humanitarian-Icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.abduction-kidnapping-icon:before {
+  content: "\e900";
+}
+.about-icon:before {
+  content: "\e901";
+}
+.add-icon:before {
+  content: "\e902";
+}
+.add-document-icon:before {
+  content: "\e903";
+}
+.advocacy-icon:before {
+  content: "\e904";
+}
+.affected-population-icon:before {
+  content: "\e905";
+}
+.agile-icon:before {
+  content: "\e906";
+}
+.agriculture-icon:before {
+  content: "\e907";
+}
+.airport-icon:before {
+  content: "\e908";
+}
+.airport-affected-icon:before {
+  content: "\e909";
+}
+.airport-closed-icon:before {
+  content: "\e90a";
+}
+.airport-destroyed-icon:before {
+  content: "\e90b";
+}
+.airport-military-icon:before {
+  content: "\e90c";
+}
+.airport-not-affected-icon:before {
+  content: "\e90d";
+}
+.alert-icon:before {
+  content: "\e90e";
+}
+.analysis-icon:before {
+  content: "\e90f";
+}
+.arrest-detention-icon:before {
+  content: "\e910";
+}
+.assault-icon:before {
+  content: "\e911";
+}
+.assembly-point-icon:before {
+  content: "\e912";
+}
+.assessment-icon:before {
+  content: "\e913";
+}
+.attack-icon:before {
+  content: "\e914";
+}
+.bacteria-icon:before {
+  content: "\e915";
+}
+.blanket-icon:before {
+  content: "\e916";
+}
+.blog-icon:before {
+  content: "\e917";
+}
+.boat-icon:before {
+  content: "\e918";
+}
+.bookmark-icon:before {
+  content: "\e919";
+}
+.border-closed-icon:before {
+  content: "\e91a";
+}
+.border-crossing-icon:before {
+  content: "\e91b";
+}
+.borehole-icon:before {
+  content: "\e91c";
+}
+.bottled-water-icon:before {
+  content: "\e91d";
+}
+.bridge-icon:before {
+  content: "\e91e";
+}
+.bridge-affected-icon:before {
+  content: "\e91f";
+}
+.bridge-closed-icon:before {
+  content: "\e920";
+}
+.bridge-destroyed-icon:before {
+  content: "\e921";
+}
+.bridge-not-affected-icon:before {
+  content: "\e922";
+}
+.bucket-icon:before {
+  content: "\e923";
+}
+.buddhist-temple-icon:before {
+  content: "\e924";
+}
+.building-icon:before {
+  content: "\e925";
+}
+.building-closed-icon:before {
+  content: "\e926";
+}
+.building-facility-affected-icon:before {
+  content: "\e927";
+}
+.building-facility-destroyed-icon:before {
+  content: "\e928";
+}
+.building-facility-not-affected-icon:before {
+  content: "\e929";
+}
+.bus-icon:before {
+  content: "\e92a";
+}
+.calendar-icon:before {
+  content: "\e92b";
+}
+.camp-coordination-and-camp-management-icon:before {
+  content: "\e92c";
+}
+.car-icon:before {
+  content: "\e92d";
+}
+.carjacking-icon:before {
+  content: "\e92e";
+}
+.case-management-icon:before {
+  content: "\e92f";
+}
+.cash-transfer-icon:before {
+  content: "\e930";
+}
+.cell-tower-icon:before {
+  content: "\e931";
+}
+.chart-icon:before {
+  content: "\e932";
+}
+.chat-icon:before {
+  content: "\e933";
+}
+.checkpoint-icon:before {
+  content: "\e934";
+}
+.child-care-child-friendly-icon:before {
+  content: "\e935";
+}
+.child-combatant-icon:before {
+  content: "\e936";
+}
+.child-protection-icon:before {
+  content: "\e937";
+}
+.children-icon:before {
+  content: "\e938";
+}
+.church-icon:before {
+  content: "\e939";
+}
+.civil-military-coordination-icon:before {
+  content: "\e93a";
+}
+.clinic-icon:before {
+  content: "\e93b";
+}
+.clothing-icon:before {
+  content: "\e93c";
+}
+.cold-wave-icon:before {
+  content: "\e93d";
+}
+.communal-latrine-icon:before {
+  content: "\e93e";
+}
+.community-building-icon:before {
+  content: "\e93f";
+}
+.community-engagement-icon:before {
+  content: "\e940";
+}
+.computer-icon:before {
+  content: "\e941";
+}
+.confinement-icon:before {
+  content: "\e942";
+}
+.conflict-icon:before {
+  content: "\e943";
+}
+.coordinated-assessement-icon:before {
+  content: "\e944";
+}
+.coordination-icon:before {
+  content: "\e945";
+}
+.copy-icon:before {
+  content: "\e946";
+}
+.country-icon:before {
+  content: "\e947";
+}
+.covid-19-icon:before {
+  content: "\e948";
+}
+.cyclone-icon:before {
+  content: "\e949";
+}
+.damaged-affected-icon:before {
+  content: "\e94a";
+}
+.dangerous-area-icon:before {
+  content: "\e94b";
+}
+.data-icon:before {
+  content: "\e94c";
+}
+.dead-icon:before {
+  content: "\e94d";
+}
+.debris-management-icon:before {
+  content: "\e94e";
+}
+.deployment-icon:before {
+  content: "\e94f";
+}
+.destroyed-icon:before {
+  content: "\e950";
+}
+.detergent-icon:before {
+  content: "\e951";
+}
+.diplomatic-mission-icon:before {
+  content: "\e952";
+}
+.distribution-site-icon:before {
+  content: "\e953";
+}
+.doctor-icon:before {
+  content: "\e954";
+}
+.document-icon:before {
+  content: "\e955";
+}
+.down-icon:before {
+  content: "\e956";
+}
+.download-icon:before {
+  content: "\e957";
+}
+.drought-icon:before {
+  content: "\e958";
+}
+.drowned-icon:before {
+  content: "\e959";
+}
+.early-recovery-icon:before {
+  content: "\e95a";
+}
+.earthmound-icon:before {
+  content: "\e95b";
+}
+.earthquake-icon:before {
+  content: "\e95c";
+}
+.education-icon:before {
+  content: "\e95d";
+}
+.elderly-icon:before {
+  content: "\e95e";
+}
+.email-icon:before {
+  content: "\e95f";
+}
+.emergency-telecommunications-icon:before {
+  content: "\e960";
+}
+.environment-icon:before {
+  content: "\e961";
+}
+.epidemic-icon:before {
+  content: "\e962";
+}
+.exit-cancel-icon:before {
+  content: "\e963";
+}
+.famine-icon:before {
+  content: "\e964";
+}
+.favourite-icon:before {
+  content: "\e965";
+}
+.fax-icon:before {
+  content: "\e966";
+}
+.ferry-icon:before {
+  content: "\e967";
+}
+.film-icon:before {
+  content: "\e968";
+}
+.filter-icon:before {
+  content: "\e969";
+}
+.financing-icon:before {
+  content: "\e96a";
+}
+.fire-icon:before {
+  content: "\e96b";
+}
+.fire-station-icon:before {
+  content: "\e96c";
+}
+.fishery-icon:before {
+  content: "\e96d";
+}
+.flash-flood-icon:before {
+  content: "\e96e";
+}
+.flood-icon:before {
+  content: "\e96f";
+}
+.flour-icon:before {
+  content: "\e970";
+}
+.folder-icon:before {
+  content: "\e971";
+}
+.food-icon:before {
+  content: "\e972";
+}
+.food-security-icon:before {
+  content: "\e973";
+}
+.food-warehouse-icon:before {
+  content: "\e974";
+}
+.forced-entry-icon:before {
+  content: "\e975";
+}
+.forced-recruitment-icon:before {
+  content: "\e976";
+}
+.fund-icon:before {
+  content: "\e977";
+}
+.gap-analysis-icon:before {
+  content: "\e978";
+}
+.gas-station-icon:before {
+  content: "\e979";
+}
+.gender-icon:before {
+  content: "\e97a";
+}
+.gender-based-violence-icon:before {
+  content: "\e97b";
+}
+.go-icon:before {
+  content: "\e97c";
+}
+.government-office-icon:before {
+  content: "\e97d";
+}
+.group-icon:before {
+  content: "\e97e";
+}
+.handwashing-icon:before {
+  content: "\e97f";
+}
+.harassment-intimidation-icon:before {
+  content: "\e980";
+}
+.health-icon:before {
+  content: "\e981";
+}
+.health-facility-icon:before {
+  content: "\e982";
+}
+.health-facility-affected-icon:before {
+  content: "\e983";
+}
+.health-facility-destroyed-icon:before {
+  content: "\e984";
+}
+.health-facility-not-affected-icon:before {
+  content: "\e985";
+}
+.health-post-icon:before {
+  content: "\e986";
+}
+.health-worker-icon:before {
+  content: "\e987";
+}
+.heatwave-icon:before {
+  content: "\e988";
+}
+.heavy-rain-icon:before {
+  content: "\e989";
+}
+.helicopter-icon:before {
+  content: "\e98a";
+}
+.helipad-icon:before {
+  content: "\e98b";
+}
+.help-icon:before {
+  content: "\e98c";
+}
+.hidden-icon:before {
+  content: "\e98d";
+}
+.hindu-temple-icon:before {
+  content: "\e98e";
+}
+.hospital-icon:before {
+  content: "\e98f";
+}
+.hospital-bed-icon:before {
+  content: "\e990";
+}
+.hotel-icon:before {
+  content: "\e991";
+}
+.house-icon:before {
+  content: "\e992";
+}
+.house-affected-icon:before {
+  content: "\e993";
+}
+.house-burned-icon:before {
+  content: "\e994";
+}
+.house-destroyed-icon:before {
+  content: "\e995";
+}
+.house-lockdown-icon:before {
+  content: "\e996";
+}
+.house-not-affected-icon:before {
+  content: "\e997";
+}
+.humanitarian-access-icon:before {
+  content: "\e998";
+}
+.humanitarian-programme-cycle-icon:before {
+  content: "\e999";
+}
+.idp-refugee-camp-icon:before {
+  content: "\e99a";
+}
+.indigenous-people-icon:before {
+  content: "\e99b";
+}
+.infant-icon:before {
+  content: "\e99c";
+}
+.infant-formula-icon:before {
+  content: "\e99d";
+}
+.infected-icon:before {
+  content: "\e99e";
+}
+.infection-control-icon:before {
+  content: "\e99f";
+}
+.information-management-icon:before {
+  content: "\e9a0";
+}
+.information-technology-icon:before {
+  content: "\e9a1";
+}
+.infrastructure-icon:before {
+  content: "\e9a2";
+}
+.injured-icon:before {
+  content: "\e9a3";
+}
+.innovation-icon:before {
+  content: "\e9a4";
+}
+.insect-infestation-icon:before {
+  content: "\e9a5";
+}
+.internally-displaced-icon:before {
+  content: "\e9a6";
+}
+.internet-icon:before {
+  content: "\e9a7";
+}
+.kitchen-set-icon:before {
+  content: "\e9a8";
+}
+.laboratory-icon:before {
+  content: "\e9a9";
+}
+.landslide-mudslide-icon:before {
+  content: "\e9aa";
+}
+.laptop-icon:before {
+  content: "\e9ab";
+}
+.latrine-cabin-icon:before {
+  content: "\e9ac";
+}
+.leadership-icon:before {
+  content: "\e9ad";
+}
+.learning-icon:before {
+  content: "\e9ae";
+}
+.life-saving-icon:before {
+  content: "\e9af";
+}
+.link-icon:before {
+  content: "\e9b0";
+}
+.livelihood-icon:before {
+  content: "\e9b1";
+}
+.livestock-icon:before {
+  content: "\e9b2";
+}
+.location-icon:before {
+  content: "\e9b3";
+}
+.location-lockdown-icon:before {
+  content: "\e9b4";
+}
+.locust-infestation-icon:before {
+  content: "\e9b5";
+}
+.logistics-icon:before {
+  content: "\e9b6";
+}
+.map-icon:before {
+  content: "\e9b7";
+}
+.market-icon:before {
+  content: "\e9b8";
+}
+.market-closed-icon:before {
+  content: "\e9b9";
+}
+.mask-icon:before {
+  content: "\e9ba";
+}
+.mattress-icon:before {
+  content: "\e9bb";
+}
+.medical-supply-icon:before {
+  content: "\e9bc";
+}
+.medicine-icon:before {
+  content: "\e9bd";
+}
+.meeting-icon:before {
+  content: "\e9be";
+}
+.menu-icon:before {
+  content: "\e9bf";
+}
+.military-gate-icon:before {
+  content: "\e9c0";
+}
+.mine-icon:before {
+  content: "\e9c1";
+}
+.missing-icon:before {
+  content: "\e9c2";
+}
+.mobile-clinic-icon:before {
+  content: "\e9c3";
+}
+.mobile-phone-icon:before {
+  content: "\e9c4";
+}
+.monitor-icon:before {
+  content: "\e9c5";
+}
+.monitoring-icon:before {
+  content: "\e9c6";
+}
+.more-options-icon:before {
+  content: "\e9c7";
+}
+.mosque-icon:before {
+  content: "\e9c8";
+}
+.mosquito-net-icon:before {
+  content: "\e9c9";
+}
+.multi-cluster-sector-icon:before {
+  content: "\e9ca";
+}
+.murder-icon:before {
+  content: "\e9cb";
+}
+.national-army-icon:before {
+  content: "\e9cc";
+}
+.needs-assessment-icon:before {
+  content: "\e9cd";
+}
+.next-item-icon:before {
+  content: "\e9ce";
+}
+.ngo-office-icon:before {
+  content: "\e9cf";
+}
+.non-food-items-icon:before {
+  content: "\e9d0";
+}
+.non-food-items-2-icon:before {
+  content: "\e9d1";
+}
+.not-affected-icon:before {
+  content: "\e9d2";
+}
+.notification-icon:before {
+  content: "\e9d3";
+}
+.not-infected-icon:before {
+  content: "\e9d4";
+}
+.nutrition-icon:before {
+  content: "\e9d5";
+}
+.observation-tower-icon:before {
+  content: "\e9d6";
+}
+.oil-icon:before {
+  content: "\e9d7";
+}
+.oil-facility-icon:before {
+  content: "\e9d8";
+}
+.out-of-platform-icon:before {
+  content: "\e9d9";
+}
+.partnership-icon:before {
+  content: "\e9da";
+}
+.pause-icon:before {
+  content: "\e9db";
+}
+.peacekeeping-force-icon:before {
+  content: "\e9dc";
+}
+.people-in-need-icon:before {
+  content: "\e9dd";
+}
+.people-targeted-icon:before {
+  content: "\e9de";
+}
+.people-with-physical-impairments-icon:before {
+  content: "\e9df";
+}
+.permanent-camp-icon:before {
+  content: "\e9e0";
+}
+.person-1-icon:before {
+  content: "\e9e1";
+}
+.person-2-icon:before {
+  content: "\e9e2";
+}
+.photo-icon:before {
+  content: "\e9e3";
+}
+.physical-closure-icon:before {
+  content: "\e9e4";
+}
+.plastic-sheeting-icon:before {
+  content: "\e9e5";
+}
+.police-station-icon:before {
+  content: "\e9e6";
+}
+.policy-icon:before {
+  content: "\e9e7";
+}
+.population-growth-icon:before {
+  content: "\e9e8";
+}
+.population-return-icon:before {
+  content: "\e9e9";
+}
+.port-icon:before {
+  content: "\e9ea";
+}
+.port-affected-icon:before {
+  content: "\e9eb";
+}
+.port-closed-icon:before {
+  content: "\e9ec";
+}
+.port-destroyed-icon:before {
+  content: "\e9ed";
+}
+.port-not-affected-icon:before {
+  content: "\e9ee";
+}
+.potable-water-icon:before {
+  content: "\e9ef";
+}
+.potable-water-source-icon:before {
+  content: "\e9f0";
+}
+.poverty-icon:before {
+  content: "\e9f1";
+}
+.power-electricity-icon:before {
+  content: "\e9f2";
+}
+.power-electricity-affected-icon:before {
+  content: "\e9f3";
+}
+.power-electricity-not-affected-icon:before {
+  content: "\e9f4";
+}
+.power-outage-icon:before {
+  content: "\e9f5";
+}
+.pregnant-icon:before {
+  content: "\e9f6";
+}
+.preparedness-icon:before {
+  content: "\e9f7";
+}
+.previous-item-icon:before {
+  content: "\e9f8";
+}
+.print-icon:before {
+  content: "\e9f9";
+}
+.protection-icon:before {
+  content: "\e9fa";
+}
+.public-information-icon:before {
+  content: "\e9fb";
+}
+.radio-icon:before {
+  content: "\e9fc";
+}
+.rebel-icon:before {
+  content: "\e9fd";
+}
+.reconstruction-icon:before {
+  content: "\e9fe";
+}
+.refugee-icon:before {
+  content: "\e9ff";
+}
+.registration-icon:before {
+  content: "\ea00";
+}
+.relief-goods-icon:before {
+  content: "\ea01";
+}
+.remote-support-icon:before {
+  content: "\ea02";
+}
+.remove-icon:before {
+  content: "\ea03";
+}
+.remove-document-icon:before {
+  content: "\ea04";
+}
+.report-icon:before {
+  content: "\ea05";
+}
+.reporting-icon:before {
+  content: "\ea06";
+}
+.resilence-icon:before {
+  content: "\ea07";
+}
+.respiratory-icon:before {
+  content: "\ea08";
+}
+.response-icon:before {
+  content: "\ea09";
+}
+.return-icon:before {
+  content: "\ea0a";
+}
+.rice-icon:before {
+  content: "\ea0b";
+}
+.road-icon:before {
+  content: "\ea0c";
+}
+.road-affected-icon:before {
+  content: "\ea0d";
+}
+.road-barrier-icon:before {
+  content: "\ea0e";
+}
+.roadblock-icon:before {
+  content: "\ea0f";
+}
+.road-closed-icon:before {
+  content: "\ea10";
+}
+.road-destroyed-icon:before {
+  content: "\ea11";
+}
+.road-not-affected-icon:before {
+  content: "\ea12";
+}
+.robbery-icon:before {
+  content: "\ea13";
+}
+.rule-of-law-and-justice-icon:before {
+  content: "\ea14";
+}
+.rural-icon:before {
+  content: "\ea15";
+}
+.rural-exodus-icon:before {
+  content: "\ea16";
+}
+.safety-and-security-icon:before {
+  content: "\ea17";
+}
+.salt-icon:before {
+  content: "\ea18";
+}
+.sanitation-icon:before {
+  content: "\ea19";
+}
+.sanitizer-icon:before {
+  content: "\ea1a";
+}
+.satellite-dish-icon:before {
+  content: "\ea1b";
+}
+.save-icon:before {
+  content: "\ea1c";
+}
+.scale-down-operation-icon:before {
+  content: "\ea1d";
+}
+.scale-up-operation-icon:before {
+  content: "\ea1e";
+}
+.school-icon:before {
+  content: "\ea1f";
+}
+.school-affected-icon:before {
+  content: "\ea20";
+}
+.school-closed-icon:before {
+  content: "\ea21";
+}
+.school-destroyed-icon:before {
+  content: "\ea22";
+}
+.school-not-affected-icon:before {
+  content: "\ea23";
+}
+.search-icon:before {
+  content: "\ea24";
+}
+.search-and-rescue-icon:before {
+  content: "\ea25";
+}
+.see-icon:before {
+  content: "\ea26";
+}
+.selected-icon:before {
+  content: "\ea27";
+}
+.services-and-tools-icon:before {
+  content: "\ea28";
+}
+.settings-icon:before {
+  content: "\ea29";
+}
+.sexual-and-reproductive-health-icon:before {
+  content: "\ea2a";
+}
+.sexual-violence-icon:before {
+  content: "\ea2b";
+}
+.share-icon:before {
+  content: "\ea2c";
+}
+.shelter-icon:before {
+  content: "\ea2d";
+}
+.ship-icon:before {
+  content: "\ea2e";
+}
+.shower-icon:before {
+  content: "\ea2f";
+}
+.smartphone-icon:before {
+  content: "\ea30";
+}
+.snow-avalanche-icon:before {
+  content: "\ea31";
+}
+.snowfall-icon:before {
+  content: "\ea32";
+}
+.soap-icon:before {
+  content: "\ea33";
+}
+.social-distancing-icon:before {
+  content: "\ea34";
+}
+.solid-waste-icon:before {
+  content: "\ea35";
+}
+.spontaneous-site-icon:before {
+  content: "\ea36";
+}
+.spring-water-icon:before {
+  content: "\ea37";
+}
+.staff-management-icon:before {
+  content: "\ea38";
+}
+.stop-icon:before {
+  content: "\ea39";
+}
+.storm-icon:before {
+  content: "\ea3a";
+}
+.storm-surge-icon:before {
+  content: "\ea3b";
+}
+.stove-icon:before {
+  content: "\ea3c";
+}
+.submersible-pump-icon:before {
+  content: "\ea3d";
+}
+.sugar-icon:before {
+  content: "\ea3e";
+}
+.table-icon:before {
+  content: "\ea3f";
+}
+.tarpaulin-icon:before {
+  content: "\ea40";
+}
+.technological-disaster-icon:before {
+  content: "\ea41";
+}
+.temporary-camp-icon:before {
+  content: "\ea42";
+}
+.tent-icon:before {
+  content: "\ea43";
+}
+.testing-icon:before {
+  content: "\ea44";
+}
+.toilet-icon:before {
+  content: "\ea45";
+}
+.top-ranking-icon:before {
+  content: "\ea46";
+}
+.tornado-icon:before {
+  content: "\ea47";
+}
+.trade-and-market-icon:before {
+  content: "\ea48";
+}
+.train-icon:before {
+  content: "\ea49";
+}
+.training-icon:before {
+  content: "\ea4a";
+}
+.transition-site-icon:before {
+  content: "\ea4b";
+}
+.trending-icon:before {
+  content: "\ea4c";
+}
+.truck-icon:before {
+  content: "\ea4d";
+}
+.tsunami-icon:before {
+  content: "\ea4e";
+}
+.tunnel-icon:before {
+  content: "\ea4f";
+}
+.un-compound-office-icon:before {
+  content: "\ea50";
+}
+.university-icon:before {
+  content: "\ea51";
+}
+.un-vehicle-icon:before {
+  content: "\ea52";
+}
+.up-icon:before {
+  content: "\ea53";
+}
+.upload-icon:before {
+  content: "\ea54";
+}
+.urban-icon:before {
+  content: "\ea55";
+}
+.urban-rural-icon:before {
+  content: "\ea56";
+}
+.user-icon:before {
+  content: "\ea57";
+}
+.users-icon:before {
+  content: "\ea58";
+}
+.vaccine-icon:before {
+  content: "\ea59";
+}
+.ventilator-icon:before {
+  content: "\ea5a";
+}
+.video-icon:before {
+  content: "\ea5b";
+}
+.violent-wind-icon:before {
+  content: "\ea5c";
+}
+.virus-icon:before {
+  content: "\ea5d";
+}
+.volcano-icon:before {
+  content: "\ea5e";
+}
+.walkie-talkie-icon:before {
+  content: "\ea5f";
+}
+.warning-error-icon:before {
+  content: "\ea60";
+}
+.water-sanitation-and-hygiene-icon:before {
+  content: "\ea61";
+}
+.water-source-icon:before {
+  content: "\ea62";
+}
+.water-trucking-icon:before {
+  content: "\ea63";
+}
+.work-from-home-icon:before {
+  content: "\ea64";
+}
+.worm-infestation-icon:before {
+  content: "\ea65";
+}
+.zip-compressed-icon:before {
+  content: "\ea66";
+}
