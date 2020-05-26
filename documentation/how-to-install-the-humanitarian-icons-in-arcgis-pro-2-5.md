@@ -1,5 +1,5 @@
-# How to install in ArcMap 10.6
-The following instructions will take you through installing the icons to use in ArcMap 10.6. 
+# How to install the humanitrian icons in ArcGIS Pro 2.5
+The following instructions will take you through installing the icons to use in ArcGIS Pro 2.5. 
 
 ## You will need
 * The humanitarian font
@@ -25,4 +25,4 @@ The following instructions will take you through installing the icons to use in 
 12. To check, click on the Marker Symbols folder on the lefthandside of the style manager.
 
 ## Note
-The icons have been cfeated and tested in ArcMap 10.6 but should work in earlier versions of ArcMap too.
+The icons have been cfeated and tested in ArcGIS Pro 2.5 but should work in earlier versions of ArcGIS Pro too.
