@@ -1,5 +1,10 @@
 # OCHA Humanitarian Icons
-This version (v2.0) of icons were created by The United Nations Office for the Coordination of Humanitarian affairs (OCHA) in 2019 and 2020. MapAction has supported in the creation of the various GIS ready formats for ArcGIS and QGIS.
+These icons were created by The United Nations Office for the Coordination of Humanitarian affairs (OCHA). MapAction has supported in the creation of the various GIS ready formats for ArcGIS and QGIS.
+
+## Version history
+* Version 1.0 - 2012
+* Version 2.0 - 2019 - A refresh and update of the version 1 icons.
+* Version 2.1 - 2020 - The addition of COVID-19 related icons.
 
 ## Formats
 The following formats have been created:
