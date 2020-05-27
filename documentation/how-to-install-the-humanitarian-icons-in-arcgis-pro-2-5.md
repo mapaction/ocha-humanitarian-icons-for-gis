@@ -3,18 +3,18 @@ The following instructions will take you through installing the icons to use in 
 
 ## You will need
 * The humanitarian font
-* The .style file
+* The .stylx file
 
 ## Installation
 ### Download
-1. Download the .ttf font.
-2. Download the .stylx file.
+1. Download the .ttf font - [Humanitarian-Icons.ttf](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.ttf).
+2. Download the .style file - [ArcGIS Pro 2.5 .stylx file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-pro/humanitarian-icons-arcgis-pro.stylx).
 
 ### Install the font
 3. Double click on the font to open the font.
 4. Click install font and let it install to the default location.
 
-### Install the .style file
+### Install the .stylx file
 5. Open ArcGIS Pro.
 6. Open the project you are working on.
 7. Click Add > Add Style from the Style section of the Insert tab.

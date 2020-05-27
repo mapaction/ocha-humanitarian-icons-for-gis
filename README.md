@@ -21,10 +21,8 @@ The following formats have been created:
 ### GIS Friendly
 * .style for use in ArcGIS 10.6
 * .stylx for use in ArcGIS Pro 2.5
-* .xml for use in QGIS 3.4.4 and above
-
-## Downloading
-* 
+* .xml using the .ttf font file for use in QGIS 3.4.4 and above
+* .xml using the .svg files for use in QGIS 3.4.4 and above
 
 ## How to use
 * [How to install the humanitarian icons in ArcMap 10.6](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icons-in-arcmap-10-6.md)
@@ -34,3 +32,11 @@ The following formats have been created:
 ## All documentation
 * [All documentation](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/all-documentation.md)
 
+## Downloads
+* [All resources](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-106/downloads/humanitarian-icons-v2-1.zip)
+* [Humanitarian-Icons.ttf](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.ttf)
+* [ArcMap 10.6 .style file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-106/humanitarian-icons-arcgis-106.style)
+* [ArcGIS Pro 2.5 .stylx file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-pro/humanitarian-icons-arcgis-pro.stylx)
+* [SVG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-svg.zip)
+* [QGIS .ttf file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-ttf.xml)
+* [QGIS .svg file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-svg.xml)

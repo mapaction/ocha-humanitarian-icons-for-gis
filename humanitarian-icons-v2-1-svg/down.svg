@@ -1,14 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 50.2 52.4" style="enable-background:new 0 0 50.2 52.4;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#418FDE;}
-</style>
-<g id="Layer_2_1_">
-	<g id="Icons">
-		<path class="st0" d="M49.1,16.2c0,1.1-0.4,2.1-1.2,2.8l-20,20c-1.6,1.6-4.1,1.6-5.7,0l-20-20c-1.6-1.6-1.6-4.1,0-5.7
-			c1.6-1.6,4.1-1.6,5.6,0l17.2,17.2l17.2-17.2c1.6-1.6,4.1-1.6,5.7,0C48.7,14.1,49.1,15.2,49.1,16.2z"/>
-	</g>
-</g>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="96" height="100" viewBox="0 0 96 100">
+<title>down</title>
+<path d="M93.702 30.916c0 2.099-0.763 4.008-2.29 5.344l-38.168 38.168c-3.053 3.053-7.824 3.053-10.878 0l-38.168-38.168c-3.053-3.053-3.053-7.824 0-10.878s7.824-3.053 10.687 0l32.824 32.824 32.824-32.824c3.053-3.053 7.824-3.053 10.878 0 1.527 1.527 2.29 3.626 2.29 5.534z"></path>
 </svg>

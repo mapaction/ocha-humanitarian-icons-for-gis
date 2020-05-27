@@ -1,19 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 50.2 52.4" style="enable-background:new 0 0 50.2 52.4;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#418FDE;}
-</style>
-<g id="Layer_2_1_">
-	<g id="Icons">
-		<path class="st0" d="M48.5,11.8c-0.4-0.4-0.9-0.6-1.4-0.6c-1.1,0-2,0.9-2,2v6l-3,6h3v14c0,1.1,0.9,2,2,2s2-0.9,2-2v-26
-			C49.1,12.7,48.9,12.2,48.5,11.8z"/>
-		<path class="st0" d="M11.1,15.2h-4l-2,4v-6c0-1.1-0.9-2-2-2s-2,0.9-2,2v26c0,1.1,0.9,2,2,2s2-0.9,2-2v-14h1L11.1,15.2z"/>
-		<polygon class="st0" points="15.1,15.2 10.1,25.2 14.1,25.2 19.1,15.2 		"/>
-		<polygon class="st0" points="23.1,15.2 18.1,25.2 22.1,25.2 27.1,15.2 		"/>
-		<polygon class="st0" points="31.1,15.2 26.1,25.2 30.1,25.2 35.1,15.2 		"/>
-		<polygon class="st0" points="39.1,15.2 34.1,25.2 38.1,25.2 43.1,15.2 		"/>
-	</g>
-</g>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="96" height="100" viewBox="0 0 96 100">
+<title>road-barrier</title>
+<path d="M92.557 22.519c-0.763-0.763-1.718-1.145-2.672-1.145-2.099 0-3.817 1.718-3.817 3.817v11.45l-5.725 11.45h5.725v26.718c0 2.099 1.718 3.817 3.817 3.817s3.817-1.718 3.817-3.817v-49.618c0-0.954-0.382-1.908-1.145-2.672z"></path>
+<path d="M21.183 29.008h-7.634l-3.817 7.634v-11.45c0-2.099-1.718-3.817-3.817-3.817s-3.817 1.718-3.817 3.817v49.618c0 2.099 1.718 3.817 3.817 3.817s3.817-1.718 3.817-3.817v-26.718h1.908l9.542-19.084z"></path>
+<path d="M28.817 29.008l-9.542 19.084h7.634l9.542-19.084z"></path>
+<path d="M44.084 29.008l-9.542 19.084h7.634l9.542-19.084z"></path>
+<path d="M59.351 29.008l-9.542 19.084h7.634l9.542-19.084z"></path>
+<path d="M74.618 29.008l-9.542 19.084h7.634l9.542-19.084z"></path>
 </svg>
