@@ -7,22 +7,22 @@ The following instructions will take you through installing the icons to use in 
 
 ## Installation
 ### Download
-1. Download the font.
-2. Download the .style file.
+1. Download the .ttf font.
+2. Download the .stylx file.
 
 ### Install the font
 3. Double click on the font to open the font.
 4. Click install font and let it install to the default location.
 
 ### Install the .style file
-5. Open ArcMap.
-6. Open a new mxd.
-7. Go to Customise > Style Manager.
-8. Click the Styles button on the righthandside.
-9. Click Add Style to List.
-10. Browse to the .style file and click open.
-11. The .style file should now open and you will see the icons in the style manager.
-12. To check, click on the Marker Symbols folder on the lefthandside of the style manager.
+5. Open ArcGIS Pro.
+6. Open the project you are working on.
+7. Click Add > Add Style from the Style section of the Insert tab.
+8. Locate the .stylx file and click Ok.
+9. The style is now ready to use.
 
 ## Note
 The icons have been cfeated and tested in ArcGIS Pro 2.5 but should work in earlier versions of ArcGIS Pro too.
+
+## Further guidance
+* [https://pro.arcgis.com/en/pro-app/help/projects/connect-to-a-style.htm](ArcGIS Pro - Add styles to a project )

@@ -7,7 +7,7 @@ The following instructions will take you through installing the icons to use in 
 
 ## Installation
 ### Download
-1. Download the font.
+1. Download the .ttf font.
 2. Download the .style file.
 
 ### Install the font
@@ -26,3 +26,6 @@ The following instructions will take you through installing the icons to use in 
 
 ## Note
 The icons have been cfeated and tested in ArcMap 10.6 but should work in earlier versions of ArcMap too.
+
+## Further guidance
+* [https://desktop.arcgis.com/en/arcmap/10.6/extensions/task-assistant-manager/importing-styles-from-a-style-file.htm](ArcMap 10.6 - Importing styles from a style file)
