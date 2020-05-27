@@ -25,4 +25,4 @@ The following instructions will take you through installing the icons to use in 
 The icons have been cfeated and tested in ArcGIS Pro 2.5 but should work in earlier versions of ArcGIS Pro too.
 
 ## Further guidance
-* [https://pro.arcgis.com/en/pro-app/help/projects/connect-to-a-style.htm](ArcGIS Pro - Add styles to a project )
+* [ArcGIS Pro - Add styles to a project](https://pro.arcgis.com/en/pro-app/help/projects/connect-to-a-style.htm).
