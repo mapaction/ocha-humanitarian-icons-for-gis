@@ -1,5 +1,5 @@
 # OCHA Humanitarian Icons
-<img src="https://www.unocha.org/sites/unocha/files/icons_banner_2_1.jpg" alt="Humanitarian Icons" width="300px" align="right" > These icons were created by The United Nations Office for the Coordination of Humanitarian affairs (OCHA). MapAction has supported in the creation of the various GIS ready formats for ArcGIS and QGIS.
+<img src="https://www.unocha.org/sites/unocha/files/icons_banner_2_1.jpg" alt="Humanitarian Icons" width="300px" align="right" > These icons were created by [The United Nations Office for the Coordination of Humanitarian affairs (OCHA)](www.unocha.org). [MapAction](mapaction.org) has supported in the creation of the various GIS ready formats for ArcGIS and QGIS.
 
 ## Version history
 * [Version 1.0 - 2012](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/tree/humanitarian-icons-v1)
