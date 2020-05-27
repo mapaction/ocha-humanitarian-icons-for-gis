@@ -28,4 +28,4 @@ The following instructions will take you through installing the icons to use in 
 The icons have been cfeated and tested in QGIS 3.4.4 but should work in earlier versions of QGIS too.
 
 ## Further guidance
-* [https://docs.qgis.org/3.4/en/docs/user_manual/working_with_vector/style_library.html#the-style-manager](QGIS - The Style Manager Help )
+* [QGIS - The Style Manager Help](https://docs.qgis.org/3.4/en/docs/user_manual/working_with_vector/style_library.html#the-style-manager).
