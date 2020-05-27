@@ -7,8 +7,8 @@ The following instructions will take you through installing the icons to use in 
 
 ## Installation
 ### Download
-1. Download the .ttf font - [Humanitarian-Icons.ttf](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.ttf).
-2. Download the .style file - [ArcGIS Pro 2.5 .stylx file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-pro/humanitarian-icons-arcgis-pro.stylx).
+1. Download the .ttf font - [Humanitarian-Icons.ttf](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.ttf).
+2. Download the .style file - [ArcGIS Pro 2.5 .stylx file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-pro/humanitarian-icons-arcgis-pro.stylx).
 
 ### Install the font
 3. Double click on the font to open the font.

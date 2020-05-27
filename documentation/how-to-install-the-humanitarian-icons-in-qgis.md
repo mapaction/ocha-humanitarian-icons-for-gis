@@ -14,8 +14,8 @@ For the SVG method
 
 ## Installation for the font method
 ### Download
-1. Download the .ttf font - [Humanitarian-Icons.ttf](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.ttf).
-2. Download the .style file - [QGIS .ttf file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-ttf.xml).
+1. Download the .ttf font - [Humanitarian-Icons.ttf](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.ttf).
+2. Download the .style file - [QGIS .ttf file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-ttf.xml).
 
 ### Install the font
 3. Double click on the font to open the font.
@@ -33,8 +33,8 @@ For the SVG method
 
 
 ## Installation for the SVG method
-1. Download the .svg files - [SVG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-svg.zip).
-2. Download the .style file - [QGIS .svg file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-svg.xml).
+1. Download the .svg files - [SVG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-svg.zip).
+2. Download the .style file - [QGIS .svg file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-svg.xml).
 
 ### Save the SVG files
 3. Copy the folder into an SVG folder which is referenced in Settings > Options > System > SVG paths. In Windows, this will normally be C:\Users\[user_name]\AppData\Roaming\QGIS\QGIS3\profiles\default\svg - you may have to create the folder.
