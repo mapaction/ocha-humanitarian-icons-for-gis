@@ -28,4 +28,4 @@ The following instructions will take you through installing the icons to use in 
 The icons have been cfeated and tested in ArcMap 10.6 but should work in earlier versions of ArcMap too.
 
 ## Further guidance
-* [https://desktop.arcgis.com/en/arcmap/10.6/extensions/task-assistant-manager/importing-styles-from-a-style-file.htm](ArcMap 10.6 - Importing styles from a style file).
+* [https://desktop.arcgis.com/en/arcmap/10.6/extensions/task-assistant-manager/importing-styles-from-a-style-file.htm] (ArcMap 10.6 - Importing styles from a style file).
