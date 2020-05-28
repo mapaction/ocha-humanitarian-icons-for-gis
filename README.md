@@ -20,7 +20,7 @@ The following formats have been created:
 
 ### GIS Friendly
 #### ESRI
-* .style for use in ArcGIS 10.6
+* .style for use in ArcMap 10.6
 * .stylx for use in ArcGIS Pro 2.5
 #### QGIS
 * .xml using the .ttf font file for use in QGIS 3.4.4 and above
