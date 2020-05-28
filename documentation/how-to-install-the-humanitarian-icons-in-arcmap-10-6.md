@@ -1,5 +1,5 @@
 # How to install the humanitrian icons in ArcMap 10.6
-The following instructions will take you through installing the icons to use in ArcMap 10.6. 
+<img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/arcmap-logo.jpg" alt="ArcMap Logo" width="150" align="right" >The following instructions will take you through installing the icons to use in ArcMap 10.6. 
 
 ## You will need
 * The humanitarian font
