@@ -27,6 +27,7 @@ The following formats have been created:
 * .xml using the .svg files for use in QGIS 3.4.4 and above
 
 ## How to use
+* [How to install the humanitarian icon font](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icon-font.md)
 * [How to install the humanitarian icons in ArcMap 10.6](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icons-in-arcmap-10-6.md)
 * [How to install the humanitarian icons in ArcGIS Pro 2.5](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icons-in-arcgis-pro-2-5.md)
 * [How to install the humanitarian icons in QGIS](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icons-in-qgis.md)
@@ -35,12 +36,14 @@ The following formats have been created:
 * [All documentation](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/all-documentation.md)
 
 ## Downloads
-* [All resources](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-svg.zip)
+* [All resources](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/downloads/humanitarian-icons-v2-1.zip)
 #### Fonts
 * [Humanitarian-Icons.ttf](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.ttf)
+[Humanitarian-Icons.eot](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.eot)
+[Humanitarian-Icons.woff](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.woff)
 #### Graphics
 * [SVG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-svg.zip)
-* [PNG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-png.zip)
+* [PNG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-png/humanitarian-icons-v2-1-png.zip)
 #### ESRI
 * [ArcMap 10.6 .style file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-106/humanitarian-icons-arcgis-106.style)
 * [ArcGIS Pro 2.5 .stylx file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-pro/humanitarian-icons-arcgis-pro.stylx)
