@@ -31,7 +31,6 @@ For the SVG method
 11. When ready click Import.
 12. They will be loaded in and you can then check that they have correctly loaded in the Style Manager dialogue box.
 
-
 ## Installation for the SVG method
 1. Download the .svg files - [SVG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-svg.zip).
 2. Download the .style file - [QGIS .svg file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-svg.xml).
@@ -48,6 +47,8 @@ For the SVG method
 9. Check the final tag settings.
 10. When ready click Import.
 11. They will be loaded in and you can then check that they have correctly loaded in the Style Manager dialogue box.
+
+<img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/qgis-style-manager.jpg" alt="QGIS Style Manager" width="95%" align="centre" >
 
 ## Note
 The icons have been cfeated and tested in QGIS 3.4.4 but should work in earlier versions of QGIS too.
