@@ -4,3 +4,4 @@ These fonts were created by OCHA as SVG files which were there converted into th
 ## How to use
 * Download the font - [Humanitarian-Icons.ttf](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-font/Humanitarian-Icons.ttf)
 * Double click to install
+<img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/fonts-view.jpg" alt="Fonts" width="95%" align="centre" >
