@@ -1,5 +1,5 @@
 # How to install the humanitrian icons in QGIS 3.4.4 and above
-The following instructions will take you through installing the icons to use in QGIS 3.4.4 and above.
+<img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/qgis-logo.jpg" alt="QGIS Logo" width="150" align="right" >The following instructions will take you through installing the icons to use in QGIS 3.4.4 and above.
 
 There are two options available. The font method is more flexible - you can change the colour for example, but users and end users will be required to install the font (unless the font has been embedded in the map). The SVG version will overcome those issue but the colours cannot be adjusted.
 
