@@ -1,2 +1,0 @@
-- name: Markdown to PDF
-  uses: valtyr/pandoc-action@v0.1-alpha
