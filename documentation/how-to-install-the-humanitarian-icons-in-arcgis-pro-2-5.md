@@ -1,5 +1,5 @@
 # How to install the humanitrian icons in ArcGIS Pro 2.5
-The following instructions will take you through installing the icons to use in ArcGIS Pro 2.5. 
+<img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/arcgis-pro-styles.jpg" alt="ArcGIS Pro Style Manager" width="300px" align="right" >The following instructions will take you through installing the icons to use in ArcGIS Pro 2.5. 
 
 ## You will need
 * The humanitarian font
