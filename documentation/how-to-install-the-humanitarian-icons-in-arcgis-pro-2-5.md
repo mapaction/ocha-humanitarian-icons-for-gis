@@ -20,9 +20,11 @@ The following instructions will take you through installing the icons to use in 
 7. Click Add > Add Style from the Style section of the Insert tab.
 8. Locate the .stylx file and click Ok.
 9. The style is now ready to use.
+
 <img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/arcgis-pro-styles.jpg" alt="ArcGIS Pro Style Manager" width="95%" align="centre" >
+
 ## Note
-The icons have been cfeated and tested in ArcGIS Pro 2.5 but should work in earlier versions of ArcGIS Pro too.
+The icons have been created and tested in ArcGIS Pro 2.5 but should work in earlier versions of ArcGIS Pro too.
 
 ## Further guidance
 * [ArcGIS Pro - Add styles to a project](https://pro.arcgis.com/en/pro-app/help/projects/connect-to-a-style.htm).
