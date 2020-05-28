@@ -1,0 +1,2 @@
+- name: Create PDF
+  uses: mkrakowitzer/actions-makepdfs@1.1
