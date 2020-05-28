@@ -24,6 +24,8 @@ The following instructions will take you through installing the icons to use in 
 11. The .style file should now open and you will see the icons in the style manager.
 12. To check, click on the Marker Symbols folder on the lefthandside of the style manager.
 
+<img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/arcmap-style-manager.jpg" alt="ArcMap 10.6 Style Manager" width="95%" align="centre" >
+
 ## Note
 The icons have been cfeated and tested in ArcMap 10.6 but should work in earlier versions of ArcMap too.
 
