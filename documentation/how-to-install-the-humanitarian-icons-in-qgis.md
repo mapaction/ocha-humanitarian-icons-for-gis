@@ -3,6 +3,8 @@
 
 There are two options available. The font method is more flexible - you can change the colour for example, but users and end users will be required to install the font (unless the font has been embedded in the map). The SVG version will overcome those issue but the colours cannot be adjusted.
 
+You can only use one of the options at one time (unless you manually change the name of each symbol) - i.e. installing the SVG symbols will overwrite the font symbols.
+
 ## You will need
 For the Font method
 * The humanitarian icons font
@@ -56,4 +58,4 @@ For the SVG method
 The icons have been created and tested in QGIS 3.10 (the current LTR) but should work in earlier versions of QGIS too.
 
 ## Further guidance
-* [QGIS - The Style Manager Help](https://docs.qgis.org/3.4/en/docs/user_manual/working_with_vector/style_library.html#the-style-manager).
+* [QGIS - The Style Manager Help](https://docs.qgis.org/3.10/en/docs/user_manual/style_library/style_manager.html).
