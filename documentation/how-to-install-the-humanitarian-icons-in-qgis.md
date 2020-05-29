@@ -3,7 +3,7 @@
 
 There are two options available. The font method is more flexible - you can change the colour for example, but users and end users will be required to install the font (unless the font has been embedded in the map). The SVG version will overcome those issue but the colours cannot be adjusted.
 
-You can only use one of the options at one time (unless you manually change the name of each symbol) - i.e. installing the SVG symbols will overwrite the font symbols.
+You can only use one of the options at one time (unless you manually change the name of each symbol) - i.e. installing the SVG symbols will overwrite the font symbols. However even if you only use the font symbols, you can still download the SVG images and use them in your maps.
 
 ## You will need
 For the Font method
