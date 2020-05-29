@@ -20,7 +20,7 @@ For the SVG method
 2. Download the .xml style file - [QGIS humanitarian-icons-v2-1-qgis-ttf.xml file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-ttf.xml).
 
 ### Install the font
-3. Double click on the font to open the font.
+3. Double click on the font to open the font (do this before opening QGIS).
 4. Click install font and let it install to the default location.
 
 ### Install the .xml file
