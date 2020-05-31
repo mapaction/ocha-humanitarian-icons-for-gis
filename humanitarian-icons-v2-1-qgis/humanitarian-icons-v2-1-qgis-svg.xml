@@ -9,7 +9,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/abduction-kidnapping.svg" k="name"/>
@@ -42,7 +42,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/about.svg" k="name"/>
@@ -75,7 +75,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/add.svg" k="name"/>
@@ -108,7 +108,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/add-document.svg" k="name"/>
@@ -141,7 +141,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/advocacy.svg" k="name"/>
@@ -174,7 +174,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/affected-population.svg" k="name"/>
@@ -207,7 +207,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/agile.svg" k="name"/>
@@ -240,7 +240,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/agriculture.svg" k="name"/>
@@ -273,7 +273,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/airport.svg" k="name"/>
@@ -306,7 +306,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/airport-affected.svg" k="name"/>
@@ -339,7 +339,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/airport-closed.svg" k="name"/>
@@ -372,7 +372,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/airport-destroyed.svg" k="name"/>
@@ -405,7 +405,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/airport-military.svg" k="name"/>
@@ -438,7 +438,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/airport-not-affected.svg" k="name"/>
@@ -471,7 +471,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/alert.svg" k="name"/>
@@ -504,7 +504,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/analysis.svg" k="name"/>
@@ -537,7 +537,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/arrest-detention.svg" k="name"/>
@@ -570,7 +570,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/assault.svg" k="name"/>
@@ -603,7 +603,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/assembly-point.svg" k="name"/>
@@ -636,7 +636,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/assessment.svg" k="name"/>
@@ -669,7 +669,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/attack.svg" k="name"/>
@@ -702,7 +702,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bacteria.svg" k="name"/>
@@ -735,7 +735,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/blanket.svg" k="name"/>
@@ -768,7 +768,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/blog.svg" k="name"/>
@@ -801,7 +801,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/boat.svg" k="name"/>
@@ -834,7 +834,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bookmark.svg" k="name"/>
@@ -867,7 +867,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/border-closed.svg" k="name"/>
@@ -900,7 +900,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/border-crossing.svg" k="name"/>
@@ -933,7 +933,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/borehole.svg" k="name"/>
@@ -966,7 +966,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bottled-water.svg" k="name"/>
@@ -999,7 +999,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bridge.svg" k="name"/>
@@ -1032,7 +1032,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bridge-affected.svg" k="name"/>
@@ -1065,7 +1065,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bridge-closed.svg" k="name"/>
@@ -1098,7 +1098,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bridge-destroyed.svg" k="name"/>
@@ -1131,7 +1131,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bridge-not-affected.svg" k="name"/>
@@ -1164,7 +1164,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bucket.svg" k="name"/>
@@ -1197,7 +1197,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/buddhist-temple.svg" k="name"/>
@@ -1230,7 +1230,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/building.svg" k="name"/>
@@ -1263,7 +1263,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/building-closed.svg" k="name"/>
@@ -1296,7 +1296,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/building-facility-affected.svg" k="name"/>
@@ -1329,7 +1329,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/building-facility-destroyed.svg" k="name"/>
@@ -1362,7 +1362,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/building-facility-not-affected.svg" k="name"/>
@@ -1395,7 +1395,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/bus.svg" k="name"/>
@@ -1428,7 +1428,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/calendar.svg" k="name"/>
@@ -1461,7 +1461,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/camp-coordination-and-camp-management.svg" k="name"/>
@@ -1494,7 +1494,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/car.svg" k="name"/>
@@ -1527,7 +1527,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/carjacking.svg" k="name"/>
@@ -1560,7 +1560,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/case-management.svg" k="name"/>
@@ -1593,7 +1593,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/cash-transfer.svg" k="name"/>
@@ -1626,7 +1626,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/cell-tower.svg" k="name"/>
@@ -1659,7 +1659,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/chart.svg" k="name"/>
@@ -1692,7 +1692,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/chat.svg" k="name"/>
@@ -1725,7 +1725,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/checkpoint.svg" k="name"/>
@@ -1758,7 +1758,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/child-care-child-friendly.svg" k="name"/>
@@ -1791,7 +1791,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/child-combatant.svg" k="name"/>
@@ -1824,7 +1824,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/child-protection.svg" k="name"/>
@@ -1857,7 +1857,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/children.svg" k="name"/>
@@ -1890,7 +1890,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/church.svg" k="name"/>
@@ -1923,7 +1923,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/civil-military-coordination.svg" k="name"/>
@@ -1956,7 +1956,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/clinic.svg" k="name"/>
@@ -1989,7 +1989,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/clothing.svg" k="name"/>
@@ -2022,7 +2022,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/cold-wave.svg" k="name"/>
@@ -2055,7 +2055,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/communal-latrine.svg" k="name"/>
@@ -2088,7 +2088,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/community-building.svg" k="name"/>
@@ -2121,7 +2121,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/community-engagement.svg" k="name"/>
@@ -2154,7 +2154,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/computer.svg" k="name"/>
@@ -2187,7 +2187,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/confinement.svg" k="name"/>
@@ -2220,7 +2220,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/conflict.svg" k="name"/>
@@ -2253,7 +2253,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/coordinated-assessement.svg" k="name"/>
@@ -2286,7 +2286,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/coordination.svg" k="name"/>
@@ -2319,7 +2319,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/copy.svg" k="name"/>
@@ -2352,7 +2352,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/country.svg" k="name"/>
@@ -2385,7 +2385,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/covid-19.svg" k="name"/>
@@ -2418,7 +2418,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/cyclone.svg" k="name"/>
@@ -2451,7 +2451,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/damaged-affected.svg" k="name"/>
@@ -2484,7 +2484,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/dangerous-area.svg" k="name"/>
@@ -2517,7 +2517,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/data.svg" k="name"/>
@@ -2550,7 +2550,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/dead.svg" k="name"/>
@@ -2583,7 +2583,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/debris-management.svg" k="name"/>
@@ -2616,7 +2616,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/deployment.svg" k="name"/>
@@ -2649,7 +2649,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/destroyed.svg" k="name"/>
@@ -2682,7 +2682,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/detergent.svg" k="name"/>
@@ -2715,7 +2715,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/diplomatic-mission.svg" k="name"/>
@@ -2748,7 +2748,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/distribution-site.svg" k="name"/>
@@ -2781,7 +2781,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/doctor.svg" k="name"/>
@@ -2814,7 +2814,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/document.svg" k="name"/>
@@ -2847,7 +2847,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/down.svg" k="name"/>
@@ -2880,7 +2880,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/download.svg" k="name"/>
@@ -2913,7 +2913,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/drought.svg" k="name"/>
@@ -2946,7 +2946,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/drowned.svg" k="name"/>
@@ -2979,7 +2979,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/early-recovery.svg" k="name"/>
@@ -3012,7 +3012,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/earthmound.svg" k="name"/>
@@ -3045,7 +3045,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/earthquake.svg" k="name"/>
@@ -3078,7 +3078,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/education.svg" k="name"/>
@@ -3111,7 +3111,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/elderly.svg" k="name"/>
@@ -3144,7 +3144,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/email.svg" k="name"/>
@@ -3177,7 +3177,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/emergency-telecommunications.svg" k="name"/>
@@ -3210,7 +3210,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/environment.svg" k="name"/>
@@ -3243,7 +3243,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/epidemic.svg" k="name"/>
@@ -3276,7 +3276,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/exit-cancel.svg" k="name"/>
@@ -3309,7 +3309,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/famine.svg" k="name"/>
@@ -3342,7 +3342,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/favourite.svg" k="name"/>
@@ -3375,7 +3375,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/fax.svg" k="name"/>
@@ -3408,7 +3408,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/ferry.svg" k="name"/>
@@ -3441,7 +3441,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/film.svg" k="name"/>
@@ -3474,7 +3474,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/filter.svg" k="name"/>
@@ -3507,7 +3507,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/financing.svg" k="name"/>
@@ -3540,7 +3540,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/fire.svg" k="name"/>
@@ -3573,7 +3573,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/fire-station.svg" k="name"/>
@@ -3606,7 +3606,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/fishery.svg" k="name"/>
@@ -3639,7 +3639,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/flash-flood.svg" k="name"/>
@@ -3672,7 +3672,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/flood.svg" k="name"/>
@@ -3705,7 +3705,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/flour.svg" k="name"/>
@@ -3738,7 +3738,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/folder.svg" k="name"/>
@@ -3771,7 +3771,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/food.svg" k="name"/>
@@ -3804,7 +3804,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/food-security.svg" k="name"/>
@@ -3837,7 +3837,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/food-warehouse.svg" k="name"/>
@@ -3870,7 +3870,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/forced-entry.svg" k="name"/>
@@ -3903,7 +3903,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/forced-recruitment.svg" k="name"/>
@@ -3936,7 +3936,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/fund.svg" k="name"/>
@@ -3969,7 +3969,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/gap-analysis.svg" k="name"/>
@@ -4002,7 +4002,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/gas-station.svg" k="name"/>
@@ -4035,7 +4035,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/gender.svg" k="name"/>
@@ -4068,7 +4068,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/gender-based-violence.svg" k="name"/>
@@ -4101,7 +4101,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/go.svg" k="name"/>
@@ -4134,7 +4134,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/government-office.svg" k="name"/>
@@ -4167,7 +4167,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/group.svg" k="name"/>
@@ -4200,7 +4200,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/handwashing.svg" k="name"/>
@@ -4233,7 +4233,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/harassment-intimidation.svg" k="name"/>
@@ -4266,7 +4266,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/health.svg" k="name"/>
@@ -4299,7 +4299,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/health-facility.svg" k="name"/>
@@ -4332,7 +4332,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/health-facility-affected.svg" k="name"/>
@@ -4365,7 +4365,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/health-facility-destroyed.svg" k="name"/>
@@ -4398,7 +4398,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/health-facility-not-affected.svg" k="name"/>
@@ -4431,7 +4431,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/health-post.svg" k="name"/>
@@ -4464,7 +4464,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/health-worker.svg" k="name"/>
@@ -4497,7 +4497,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/heatwave.svg" k="name"/>
@@ -4530,7 +4530,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/heavy-rain.svg" k="name"/>
@@ -4563,7 +4563,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/helicopter.svg" k="name"/>
@@ -4596,7 +4596,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/helipad.svg" k="name"/>
@@ -4629,7 +4629,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/help.svg" k="name"/>
@@ -4662,7 +4662,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/hidden.svg" k="name"/>
@@ -4695,7 +4695,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/hindu-temple.svg" k="name"/>
@@ -4728,7 +4728,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/hospital.svg" k="name"/>
@@ -4761,7 +4761,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/hospital-bed.svg" k="name"/>
@@ -4794,7 +4794,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/hotel.svg" k="name"/>
@@ -4827,7 +4827,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/house.svg" k="name"/>
@@ -4860,7 +4860,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/house-affected.svg" k="name"/>
@@ -4893,7 +4893,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/house-burned.svg" k="name"/>
@@ -4926,7 +4926,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/house-destroyed.svg" k="name"/>
@@ -4959,7 +4959,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/house-lockdown.svg" k="name"/>
@@ -4992,7 +4992,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/house-not-affected.svg" k="name"/>
@@ -5025,7 +5025,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/humanitarian-access.svg" k="name"/>
@@ -5058,7 +5058,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/humanitarian-programme-cycle.svg" k="name"/>
@@ -5091,7 +5091,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/idp-refugee-camp.svg" k="name"/>
@@ -5124,7 +5124,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/indigenous-people.svg" k="name"/>
@@ -5157,7 +5157,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/infant.svg" k="name"/>
@@ -5190,7 +5190,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/infant-formula.svg" k="name"/>
@@ -5223,7 +5223,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/infected.svg" k="name"/>
@@ -5256,7 +5256,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/infection-control.svg" k="name"/>
@@ -5289,7 +5289,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/information-management.svg" k="name"/>
@@ -5322,7 +5322,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/information-technology.svg" k="name"/>
@@ -5355,7 +5355,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/infrastructure.svg" k="name"/>
@@ -5388,7 +5388,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/injured.svg" k="name"/>
@@ -5421,7 +5421,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/innovation.svg" k="name"/>
@@ -5454,7 +5454,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/insect-infestation.svg" k="name"/>
@@ -5487,7 +5487,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/internally-displaced.svg" k="name"/>
@@ -5520,7 +5520,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/internet.svg" k="name"/>
@@ -5553,7 +5553,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/kitchen-set.svg" k="name"/>
@@ -5586,7 +5586,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/laboratory.svg" k="name"/>
@@ -5619,7 +5619,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/landslide-mudslide.svg" k="name"/>
@@ -5652,7 +5652,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/laptop.svg" k="name"/>
@@ -5685,7 +5685,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/latrine-cabin.svg" k="name"/>
@@ -5718,7 +5718,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/leadership.svg" k="name"/>
@@ -5751,7 +5751,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/learning.svg" k="name"/>
@@ -5784,7 +5784,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/life-saving.svg" k="name"/>
@@ -5817,7 +5817,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/link.svg" k="name"/>
@@ -5850,7 +5850,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/livelihood.svg" k="name"/>
@@ -5883,7 +5883,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/livestock.svg" k="name"/>
@@ -5916,7 +5916,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/location.svg" k="name"/>
@@ -5949,7 +5949,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/location-lockdown.svg" k="name"/>
@@ -5982,7 +5982,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/locust-infestation.svg" k="name"/>
@@ -6015,7 +6015,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/logistics.svg" k="name"/>
@@ -6048,7 +6048,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/map.svg" k="name"/>
@@ -6081,7 +6081,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/market.svg" k="name"/>
@@ -6114,7 +6114,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/market-closed.svg" k="name"/>
@@ -6147,7 +6147,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/mask.svg" k="name"/>
@@ -6180,7 +6180,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/mattress.svg" k="name"/>
@@ -6213,7 +6213,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/medical-supply.svg" k="name"/>
@@ -6246,7 +6246,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/medicine.svg" k="name"/>
@@ -6279,7 +6279,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/meeting.svg" k="name"/>
@@ -6312,7 +6312,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/menu.svg" k="name"/>
@@ -6345,7 +6345,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/military-gate.svg" k="name"/>
@@ -6378,7 +6378,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/mine.svg" k="name"/>
@@ -6411,7 +6411,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/missing.svg" k="name"/>
@@ -6444,7 +6444,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/mobile-clinic.svg" k="name"/>
@@ -6477,7 +6477,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/mobile-phone.svg" k="name"/>
@@ -6510,7 +6510,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/monitor.svg" k="name"/>
@@ -6543,7 +6543,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/monitoring.svg" k="name"/>
@@ -6576,7 +6576,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/more-options.svg" k="name"/>
@@ -6609,7 +6609,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/mosque.svg" k="name"/>
@@ -6642,7 +6642,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/mosquito-net.svg" k="name"/>
@@ -6675,7 +6675,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/multi-cluster-sector.svg" k="name"/>
@@ -6708,7 +6708,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/murder.svg" k="name"/>
@@ -6741,7 +6741,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/national-army.svg" k="name"/>
@@ -6774,7 +6774,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/needs-assessment.svg" k="name"/>
@@ -6807,7 +6807,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/next-item.svg" k="name"/>
@@ -6840,7 +6840,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/ngo-office.svg" k="name"/>
@@ -6873,7 +6873,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/non-food-items.svg" k="name"/>
@@ -6906,7 +6906,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/non-food-items-2.svg" k="name"/>
@@ -6939,7 +6939,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/not-affected.svg" k="name"/>
@@ -6972,7 +6972,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/not-infected.svg" k="name"/>
@@ -7005,7 +7005,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/notification.svg" k="name"/>
@@ -7038,7 +7038,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/nutrition.svg" k="name"/>
@@ -7071,7 +7071,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/observation-tower.svg" k="name"/>
@@ -7104,7 +7104,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/oil.svg" k="name"/>
@@ -7137,7 +7137,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/oil-facility.svg" k="name"/>
@@ -7170,7 +7170,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/out-of-platform.svg" k="name"/>
@@ -7203,7 +7203,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/partnership.svg" k="name"/>
@@ -7236,7 +7236,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/pause.svg" k="name"/>
@@ -7269,7 +7269,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/peacekeeping-force.svg" k="name"/>
@@ -7302,7 +7302,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/people-in-need.svg" k="name"/>
@@ -7335,7 +7335,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/people-targeted.svg" k="name"/>
@@ -7368,7 +7368,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/people-with-physical-impairments.svg" k="name"/>
@@ -7401,7 +7401,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/permanent-camp.svg" k="name"/>
@@ -7434,7 +7434,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/person-1.svg" k="name"/>
@@ -7467,7 +7467,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/person-2.svg" k="name"/>
@@ -7500,7 +7500,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/photo.svg" k="name"/>
@@ -7533,7 +7533,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/physical-closure.svg" k="name"/>
@@ -7566,7 +7566,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/plastic-sheeting.svg" k="name"/>
@@ -7599,7 +7599,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/police-station.svg" k="name"/>
@@ -7632,7 +7632,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/policy.svg" k="name"/>
@@ -7665,7 +7665,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/population-growth.svg" k="name"/>
@@ -7698,7 +7698,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/population-return.svg" k="name"/>
@@ -7731,7 +7731,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/port.svg" k="name"/>
@@ -7764,7 +7764,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/port-affected.svg" k="name"/>
@@ -7797,7 +7797,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/port-closed.svg" k="name"/>
@@ -7830,7 +7830,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/port-destroyed.svg" k="name"/>
@@ -7863,7 +7863,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/port-not-affected.svg" k="name"/>
@@ -7896,7 +7896,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/potable-water.svg" k="name"/>
@@ -7929,7 +7929,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/potable-water-source.svg" k="name"/>
@@ -7962,7 +7962,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/poverty.svg" k="name"/>
@@ -7995,7 +7995,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/power-electricity-affected.svg" k="name"/>
@@ -8028,7 +8028,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/power-electricity-not-affected.svg" k="name"/>
@@ -8061,7 +8061,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/power-electricity.svg" k="name"/>
@@ -8094,7 +8094,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/power-outage.svg" k="name"/>
@@ -8127,7 +8127,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/pregnant.svg" k="name"/>
@@ -8160,7 +8160,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/preparedness.svg" k="name"/>
@@ -8193,7 +8193,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/previous-item.svg" k="name"/>
@@ -8226,7 +8226,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/print.svg" k="name"/>
@@ -8259,7 +8259,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/protection.svg" k="name"/>
@@ -8292,7 +8292,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/public-information.svg" k="name"/>
@@ -8325,7 +8325,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/radio.svg" k="name"/>
@@ -8358,7 +8358,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/rebel.svg" k="name"/>
@@ -8391,7 +8391,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/reconstruction.svg" k="name"/>
@@ -8424,7 +8424,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/refugee.svg" k="name"/>
@@ -8457,7 +8457,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/registration.svg" k="name"/>
@@ -8490,7 +8490,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/relief-goods.svg" k="name"/>
@@ -8523,7 +8523,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/remote-support.svg" k="name"/>
@@ -8556,7 +8556,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/remove.svg" k="name"/>
@@ -8589,7 +8589,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/remove-document.svg" k="name"/>
@@ -8622,7 +8622,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/report.svg" k="name"/>
@@ -8655,7 +8655,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/reporting.svg" k="name"/>
@@ -8688,7 +8688,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/resilence.svg" k="name"/>
@@ -8721,7 +8721,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/respiratory.svg" k="name"/>
@@ -8754,7 +8754,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/response.svg" k="name"/>
@@ -8787,7 +8787,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/return.svg" k="name"/>
@@ -8820,7 +8820,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/rice.svg" k="name"/>
@@ -8853,7 +8853,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/road.svg" k="name"/>
@@ -8886,7 +8886,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/road-affected.svg" k="name"/>
@@ -8919,7 +8919,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/road-barrier.svg" k="name"/>
@@ -8952,7 +8952,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/road-closed.svg" k="name"/>
@@ -8985,7 +8985,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/road-destroyed.svg" k="name"/>
@@ -9018,7 +9018,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/road-not-affected.svg" k="name"/>
@@ -9051,7 +9051,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/roadblock.svg" k="name"/>
@@ -9084,7 +9084,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/robbery.svg" k="name"/>
@@ -9117,7 +9117,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/rule-of-law-and-justice.svg" k="name"/>
@@ -9150,7 +9150,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/rural.svg" k="name"/>
@@ -9183,7 +9183,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/rural-exodus.svg" k="name"/>
@@ -9216,7 +9216,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/safety-and-security.svg" k="name"/>
@@ -9249,7 +9249,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/salt.svg" k="name"/>
@@ -9282,7 +9282,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/sanitation.svg" k="name"/>
@@ -9315,7 +9315,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/sanitizer.svg" k="name"/>
@@ -9348,7 +9348,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/satellite-dish.svg" k="name"/>
@@ -9381,7 +9381,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/save.svg" k="name"/>
@@ -9414,7 +9414,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/scale-down-operation.svg" k="name"/>
@@ -9447,7 +9447,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/scale-up-operation.svg" k="name"/>
@@ -9480,7 +9480,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/school.svg" k="name"/>
@@ -9513,7 +9513,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/school-affected.svg" k="name"/>
@@ -9546,7 +9546,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/school-closed.svg" k="name"/>
@@ -9579,7 +9579,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/school-destroyed.svg" k="name"/>
@@ -9612,7 +9612,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/school-not-affected.svg" k="name"/>
@@ -9645,7 +9645,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/search.svg" k="name"/>
@@ -9678,7 +9678,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/search-and-rescue.svg" k="name"/>
@@ -9711,7 +9711,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/see.svg" k="name"/>
@@ -9744,7 +9744,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/selected.svg" k="name"/>
@@ -9777,7 +9777,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/services-and-tools.svg" k="name"/>
@@ -9810,7 +9810,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/settings.svg" k="name"/>
@@ -9843,7 +9843,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/sexual-and-reproductive-health.svg" k="name"/>
@@ -9876,7 +9876,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/sexual-violence.svg" k="name"/>
@@ -9909,7 +9909,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/share.svg" k="name"/>
@@ -9942,7 +9942,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/shelter.svg" k="name"/>
@@ -9975,7 +9975,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/ship.svg" k="name"/>
@@ -10008,7 +10008,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/shower.svg" k="name"/>
@@ -10041,7 +10041,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/smartphone.svg" k="name"/>
@@ -10074,7 +10074,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/snow-avalanche.svg" k="name"/>
@@ -10107,7 +10107,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/snowfall.svg" k="name"/>
@@ -10140,7 +10140,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/soap.svg" k="name"/>
@@ -10173,7 +10173,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/social-distancing.svg" k="name"/>
@@ -10206,7 +10206,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/solid-waste.svg" k="name"/>
@@ -10239,7 +10239,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/spontaneous-site.svg" k="name"/>
@@ -10272,7 +10272,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/spring-water.svg" k="name"/>
@@ -10305,7 +10305,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/staff-management.svg" k="name"/>
@@ -10338,7 +10338,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/stop.svg" k="name"/>
@@ -10371,7 +10371,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/storm.svg" k="name"/>
@@ -10404,7 +10404,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/storm-surge.svg" k="name"/>
@@ -10437,7 +10437,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/stove.svg" k="name"/>
@@ -10470,7 +10470,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/submersible-pump.svg" k="name"/>
@@ -10503,7 +10503,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/sugar.svg" k="name"/>
@@ -10536,7 +10536,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/table.svg" k="name"/>
@@ -10569,7 +10569,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/tarpaulin.svg" k="name"/>
@@ -10602,7 +10602,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/technological-disaster.svg" k="name"/>
@@ -10635,7 +10635,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/temporary-camp.svg" k="name"/>
@@ -10668,7 +10668,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/tent.svg" k="name"/>
@@ -10701,7 +10701,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/testing.svg" k="name"/>
@@ -10734,7 +10734,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/toilet.svg" k="name"/>
@@ -10767,7 +10767,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/top-ranking.svg" k="name"/>
@@ -10800,7 +10800,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/tornado.svg" k="name"/>
@@ -10833,7 +10833,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/trade-and-market.svg" k="name"/>
@@ -10866,7 +10866,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/train.svg" k="name"/>
@@ -10899,7 +10899,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/training.svg" k="name"/>
@@ -10932,7 +10932,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/transition-site.svg" k="name"/>
@@ -10965,7 +10965,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/trending.svg" k="name"/>
@@ -10998,7 +10998,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/truck.svg" k="name"/>
@@ -11031,7 +11031,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/tsunami.svg" k="name"/>
@@ -11064,7 +11064,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/tunnel.svg" k="name"/>
@@ -11097,7 +11097,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/un-compound-office.svg" k="name"/>
@@ -11130,7 +11130,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/un-vehicle.svg" k="name"/>
@@ -11163,7 +11163,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/university.svg" k="name"/>
@@ -11196,7 +11196,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/up.svg" k="name"/>
@@ -11229,7 +11229,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/upload.svg" k="name"/>
@@ -11262,7 +11262,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/urban.svg" k="name"/>
@@ -11295,7 +11295,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/urban-rural.svg" k="name"/>
@@ -11328,7 +11328,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/user.svg" k="name"/>
@@ -11361,7 +11361,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/users.svg" k="name"/>
@@ -11394,7 +11394,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/vaccine.svg" k="name"/>
@@ -11427,7 +11427,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/ventilator.svg" k="name"/>
@@ -11460,7 +11460,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/video.svg" k="name"/>
@@ -11493,7 +11493,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/violent-wind.svg" k="name"/>
@@ -11526,7 +11526,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/virus.svg" k="name"/>
@@ -11559,7 +11559,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/volcano.svg" k="name"/>
@@ -11592,7 +11592,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/walkie-talkie.svg" k="name"/>
@@ -11625,7 +11625,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/warning-error.svg" k="name"/>
@@ -11658,7 +11658,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/water-source.svg" k="name"/>
@@ -11691,7 +11691,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/water-trucking.svg" k="name"/>
@@ -11724,7 +11724,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/water-sanitation-and-hygiene.svg" k="name"/>
@@ -11757,7 +11757,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/work-from-home.svg" k="name"/>
@@ -11790,7 +11790,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/worm-infestation.svg" k="name"/>
@@ -11823,7 +11823,7 @@
               force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="2,108,182,255" k="color"/>
+            <prop v="0,0,0,255" k="color"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-icons-v2-1-svg/zip-compressed.svg" k="name"/>
