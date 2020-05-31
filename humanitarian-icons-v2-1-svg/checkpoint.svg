@@ -1,0 +1,9 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<title>checkpoint</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M82.062 36.687l-36.229 36.229h35.417v-21.729c3.849 3.623 6.246 8.75 6.25 14.437v21.876c0 3.452 2.798 6.25 6.25 6.25s6.25-2.798 6.25-6.25v0-21.875c-0.005-12.606-7.224-23.525-17.753-28.853l-0.185-0.085z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M43.75 63.208l29.396-29.395c-1.634-0.304-3.515-0.478-5.437-0.479h-61.459c-3.452 0-6.25 2.798-6.25 6.25s2.798 6.25 6.25 6.25v0h37.5z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M43.75 81.25h37.5v18.75h-37.5v-18.75z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M61.458 29.125c7.48-0.003 13.542-6.068 13.542-13.548 0-1.092-0.129-2.153-0.373-3.17l0.019 0.092h-26.396c-0.225 0.925-0.354 1.986-0.354 3.077 0 7.482 6.066 13.548 13.548 13.548 0.005 0 0.010 0 0.016 0h-0.001z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M50.926 8.333h21.065c0.017 0 0.038 0.001 0.058 0.001 1.609 0 2.917-1.287 2.951-2.888l0-0.003v-2.552c-0.039-1.608-1.352-2.897-2.966-2.897-0.132 0-0.263 0.009-0.391 0.025l-21.050 2.247c-1.489 0.135-2.65 1.364-2.677 2.87v0.306c0.034 1.604 1.342 2.891 2.951 2.891 0.021 0 0.041-0 0.061-0.001l-0.003 0z"></path>
+</svg>

@@ -1,0 +1,15 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<title>population-growth</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M100 90.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M100 65.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M100 40.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M75 90.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M75 65.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M50 90.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M25 90.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M50 65.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M75 40.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M100 15.625c0 5.178-4.197 9.375-9.375 9.375s-9.375-4.197-9.375-9.375c0-5.178 4.197-9.375 9.375-9.375s9.375 4.197 9.375 9.375z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M39.583 14.225v8.691c0 2.301 1.866 4.167 4.167 4.167s4.167-1.866 4.167-4.167v0-18.75c-0-2.301-1.866-4.167-4.167-4.167h-18.75c-2.301 0-4.167 1.866-4.167 4.167s1.866 4.167 4.167 4.167v0h8.691l-32.471 32.471c-0.754 0.754-1.22 1.796-1.22 2.946 0 2.301 1.865 4.166 4.166 4.166 1.15 0 2.192-0.466 2.946-1.22v0z"></path>
+</svg>

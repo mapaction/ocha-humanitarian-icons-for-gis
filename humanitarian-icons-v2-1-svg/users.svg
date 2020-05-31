@@ -1,0 +1,8 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="133" height="100" viewBox="0 0 133 100">
+<title>users</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M116.667 27.778c0 9.205-7.462 16.667-16.667 16.667s-16.667-7.462-16.667-16.667c0-9.205 7.462-16.667 16.667-16.667s16.667 7.462 16.667 16.667z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M102.778 52.778h-2.778c-0.013 0-0.027 0-0.042 0-8.866 0-16.847 3.791-22.41 9.839l-0.020 0.022c5.362 7.242 8.583 16.351 8.583 26.212 0 0.013 0 0.026 0 0.040v-0.002 2.778h47.222v-8.333c0-0.005 0-0.011 0-0.017 0-16.866-13.672-30.538-30.538-30.538-0.006 0-0.012 0-0.018 0h0.001z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M61.111 22.222c0 12.273-9.949 22.222-22.222 22.222s-22.222-9.949-22.222-22.222c0-12.273 9.949-22.222 22.222-22.222s22.222 9.949 22.222 22.222z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M41.667 52.778h-5.556c-0 0-0.001 0-0.001 0-19.943 0-36.11 16.167-36.11 36.11 0 0 0 0.001 0 0.001v-0 11.111h77.778v-11.111c-0.007-19.941-16.17-36.104-36.11-36.111h-0.001z"></path>
+</svg>

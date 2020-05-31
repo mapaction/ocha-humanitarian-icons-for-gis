@@ -1,0 +1,6 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="46" height="100" viewBox="0 0 46 100">
+<title>latrine-cabin</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M0 89.488v7.387c0 1.726 1.399 3.125 3.125 3.125s3.125-1.399 3.125-3.125v0-3.125h33.333v3.125c0 1.726 1.399 3.125 3.125 3.125s3.125-1.399 3.125-3.125v0-80.208h-45.833zM35.417 52.083c0-1.151 0.933-2.083 2.083-2.083s2.083 0.933 2.083 2.083v0 6.25c0 1.151-0.933 2.083-2.083 2.083s-2.083-0.933-2.083-2.083v0z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M33.333 0h-20.833c-6.904 0-12.5 5.596-12.5 12.5v0h45.833c0-6.904-5.596-12.5-12.5-12.5v0z"></path>
+</svg>

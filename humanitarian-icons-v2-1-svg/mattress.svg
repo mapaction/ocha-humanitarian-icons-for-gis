@@ -1,0 +1,6 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="54" height="100" viewBox="0 0 54 100">
+<title>mattress</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M50 0h-45.833c-2.298 0.007-4.16 1.868-4.167 4.166v25.001h54.167v-25c-0.007-2.298-1.868-4.16-4.166-4.167h-0.001zM45.833 16.667c-0.007 2.298-1.868 4.16-4.166 4.167h-29.167c-2.298-0.007-4.16-1.868-4.167-4.166v-4.167c0.007-2.298 1.868-4.16 4.166-4.167h29.167c2.298 0.007 4.16 1.868 4.167 4.166v0.001z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M0 95.833c0.007 2.298 1.868 4.16 4.166 4.167h45.834c2.298-0.007 4.16-1.868 4.167-4.166v-60.417h-54.167z"></path>
+</svg>

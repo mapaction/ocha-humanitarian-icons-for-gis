@@ -1,0 +1,10 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="96" height="100" viewBox="0 0 96 100">
+<title>road-barrier</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M92.557 22.519c-0.763-0.763-1.718-1.145-2.672-1.145-2.099 0-3.817 1.718-3.817 3.817v11.45l-5.725 11.45h5.725v26.718c0 2.099 1.718 3.817 3.817 3.817s3.817-1.718 3.817-3.817v-49.618c0-0.954-0.382-1.908-1.145-2.672z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M21.183 29.008h-7.634l-3.817 7.634v-11.45c0-2.099-1.718-3.817-3.817-3.817s-3.817 1.718-3.817 3.817v49.618c0 2.099 1.718 3.817 3.817 3.817s3.817-1.718 3.817-3.817v-26.718h1.908l9.542-19.084z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M28.817 29.008l-9.542 19.084h7.634l9.542-19.084z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M44.084 29.008l-9.542 19.084h7.634l9.542-19.084z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M59.351 29.008l-9.542 19.084h7.634l9.542-19.084z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M74.618 29.008l-9.542 19.084h7.634l9.542-19.084z"></path>
+</svg>

@@ -1,0 +1,7 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<title>environment</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M52.083 46.875c0-25.888-20.987-46.875-46.875-46.875v0h-5.208v21.875c0 25.888 20.987 46.875 46.875 46.875v0h5.208z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M91.102 0c0 0 0 0 0 0-18.097 0-32.768 14.671-32.768 32.768v0 19.315h8.898c0 0 0 0 0 0 18.097 0 32.768-14.671 32.768-32.768v0-19.315z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M62.5 58.333c-2.301 0-4.167 1.866-4.167 4.167v0 22.917c-0.004 3.45-2.8 6.246-6.25 6.25h-0c-2.301 0-4.167 1.866-4.167 4.167s1.866 4.167 4.167 4.167v0c8.050-0.010 14.574-6.533 14.583-14.582v-22.918c-0-2.301-1.866-4.167-4.167-4.167v0z"></path>
+</svg>

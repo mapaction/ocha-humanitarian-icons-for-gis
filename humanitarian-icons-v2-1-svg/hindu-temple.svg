@@ -1,0 +1,12 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<title>hindu-temple</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M96.875 93.75h-93.75c-1.726 0-3.125 1.399-3.125 3.125s1.399 3.125 3.125 3.125v0h93.75c1.726 0 3.125-1.399 3.125-3.125s-1.399-3.125-3.125-3.125v0z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M11.458 89.583h77.083c1.726 0 3.125-1.399 3.125-3.125s-1.399-3.125-3.125-3.125v0h-77.083c-1.726 0-3.125 1.399-3.125 3.125s1.399 3.125 3.125 3.125v0z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M58.333 12.5h-4.167v-8.333c0-2.301-1.866-4.167-4.167-4.167s-4.167 1.866-4.167 4.167v0 8.333h-4.167c-6.083 6.667-10.75 14.875-13.021 29.167h42.708c-2.271-14.291-6.938-22.5-13.021-29.167z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M43.75 58.333c0-3.459 6.25-6.25 6.25-6.25s6.25 2.791 6.25 6.25v20.833h16.667v-14.583c0.002-0.33 0.004-0.72 0.004-1.111 0-6.215-0.357-12.346-1.052-18.374l0.069 0.735h-43.875c-0.626 5.293-0.983 11.425-0.983 17.639 0 0.39 0.001 0.781 0.004 1.17l-0-0.060v14.583h16.667z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M87.5 30.208c0-2.876-2.332-5.208-5.208-5.208s-5.208 2.332-5.208 5.208v0 11.458h10.417z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M77.083 45.833h10.417v33.333h-10.417v-33.333z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M22.917 30.208c0-2.876-2.332-5.208-5.208-5.208s-5.208 2.332-5.208 5.208v0 11.458h10.417z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M12.5 45.833h10.417v33.333h-10.417v-33.333z"></path>
+</svg>

@@ -1,0 +1,7 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="67" height="100" viewBox="0 0 67 100">
+<title>not-infected</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M2.083 87.5c0 6.904 5.596 12.5 12.5 12.5s12.5-5.596 12.5-12.5v0-68.75h-25zM8.333 35.417h12.5v22.917h-12.5z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M0 0h29.167v14.583h-29.167v-14.583z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M65.446 38.721c-0.754-0.754-1.795-1.221-2.946-1.221s-2.192 0.467-2.946 1.221l-13.721 13.721-5.387-5.387c-0.754-0.754-1.796-1.22-2.946-1.22-2.301 0-4.166 1.865-4.166 4.166 0 1.15 0.466 2.192 1.22 2.946v0l8.333 8.333c0.754 0.754 1.795 1.221 2.946 1.221s2.192-0.467 2.946-1.221l16.667-16.667c0.754-0.754 1.221-1.795 1.221-2.946s-0.467-2.192-1.221-2.946v0z"></path>
+</svg>

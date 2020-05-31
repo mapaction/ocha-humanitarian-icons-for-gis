@@ -1,0 +1,7 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="67" height="100" viewBox="0 0 67 100">
+<title>clinic</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M62.5 12.5h-58.333c-2.298 0.007-4.16 1.868-4.167 4.166v45.834h66.667v-45.833c-0.007-2.298-1.868-4.16-4.166-4.167h-0.001zM45.833 43.75h-6.25v6.25c0 3.452-2.798 6.25-6.25 6.25s-6.25-2.798-6.25-6.25v0-6.25h-6.25c-3.452 0-6.25-2.798-6.25-6.25s2.798-6.25 6.25-6.25v0h6.25v-6.25c0-3.452 2.798-6.25 6.25-6.25s6.25 2.798 6.25 6.25v0 6.25h6.25c3.452 0 6.25 2.798 6.25 6.25s-2.798 6.25-6.25 6.25v0z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M12.5 8.333h41.667c2.301 0 4.167-1.866 4.167-4.167s-1.866-4.167-4.167-4.167v0h-41.667c-2.301 0-4.167 1.866-4.167 4.167s1.866 4.167 4.167 4.167v0z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M0 100h25v-20.833c0.007-2.298 1.868-4.16 4.166-4.167h8.334c2.298 0.007 4.16 1.868 4.167 4.166v20.834h25v-33.333h-66.667z"></path>
+</svg>

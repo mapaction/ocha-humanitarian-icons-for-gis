@@ -1,0 +1,9 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<title>church</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M64.583 40.446c0-0.575-0.233-1.096-0.61-1.473l-9.806-9.806v-10.417h6.25c2.301 0 4.167-1.866 4.167-4.167s-1.866-4.167-4.167-4.167v0h-6.25v-6.25c0-2.301-1.866-4.167-4.167-4.167s-4.167 1.866-4.167 4.167v0 6.25h-6.25c-2.301 0-4.167 1.866-4.167 4.167s1.866 4.167 4.167 4.167v0h6.25v10.417l-9.806 9.806c-0.377 0.377-0.61 0.898-0.61 1.473v0 38.721h29.167z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M87.5 61.771c0-0 0-0 0-0 0-0.844-0.502-1.571-1.224-1.898l-0.013-0.005-17.513-7.783v27.083h18.75z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M31.25 52.083l-17.513 7.783c-0.735 0.332-1.237 1.059-1.237 1.904 0 0 0 0 0 0v0 17.396h18.75z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M96.875 93.75h-93.75c-1.726 0-3.125 1.399-3.125 3.125s1.399 3.125 3.125 3.125v0h93.75c1.726 0 3.125-1.399 3.125-3.125s-1.399-3.125-3.125-3.125v0z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M11.458 89.583h77.083c1.726 0 3.125-1.399 3.125-3.125s-1.399-3.125-3.125-3.125v0h-77.083c-1.726 0-3.125 1.399-3.125 3.125s1.399 3.125 3.125 3.125v0z"></path>
+</svg>

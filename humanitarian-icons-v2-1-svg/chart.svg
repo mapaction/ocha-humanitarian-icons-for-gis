@@ -1,0 +1,7 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="109" height="100" viewBox="0 0 109 100">
+<title>chart</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M4.572 50h18.128c2.525 0 4.572 2.047 4.572 4.572v0 40.856c0 2.525-2.047 4.572-4.572 4.572v0h-18.128c-2.525 0-4.572-2.047-4.572-4.572v0-40.856c0-2.525 2.047-4.572 4.572-4.572v0z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M45.716 25h17.893c0 0 0 0 0 0 2.525 0 4.572 2.047 4.572 4.572v65.855c0 2.525-2.047 4.572-4.572 4.572v0h-17.893c-2.525 0-4.572-2.047-4.572-4.572v0-65.856c0-2.525 2.047-4.572 4.572-4.572v0z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M86.39 0h18.128c2.525 0 4.572 2.047 4.572 4.572v0 90.856c0 2.525-2.047 4.572-4.572 4.572h-18.128c-2.525 0-4.572-2.047-4.572-4.572v0-90.856c0-2.525 2.047-4.572 4.572-4.572v0z"></path>
+</svg>

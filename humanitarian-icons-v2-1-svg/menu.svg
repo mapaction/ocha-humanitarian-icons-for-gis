@@ -1,0 +1,7 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="96" height="100" viewBox="0 0 96 100">
+<title>menu</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M7.824 32.824h80.153c3.244 0 5.725-2.481 5.725-5.725s-2.481-5.725-5.725-5.725h-80.153c-3.244 0-5.725 2.481-5.725 5.725s2.672 5.725 5.725 5.725z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M87.977 67.176h-80.153c-3.244 0-5.725 2.481-5.725 5.725s2.481 5.725 5.725 5.725h80.153c3.244 0 5.725-2.481 5.725-5.725 0-3.053-2.481-5.725-5.725-5.725z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M87.977 44.275h-80.153c-3.244 0-5.725 2.481-5.725 5.725s2.481 5.725 5.725 5.725h80.153c3.244 0 5.725-2.481 5.725-5.725s-2.481-5.725-5.725-5.725z"></path>
+</svg>

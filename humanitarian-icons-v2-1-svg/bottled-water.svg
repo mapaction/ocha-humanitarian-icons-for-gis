@@ -1,0 +1,8 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="42" height="100" viewBox="0 0 42 100">
+<title>bottled-water</title>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M2.083 31.25h37.5c1.151 0 2.083-0.933 2.083-2.083v0c0-6.904-5.596-12.5-12.5-12.5v0-8.333c2.301 0 4.167-1.866 4.167-4.167s-1.866-4.167-4.167-4.167v0h-16.667c-2.301 0-4.167 1.866-4.167 4.167s1.866 4.167 4.167 4.167v0 8.333c-6.904 0-12.5 5.596-12.5 12.5v0c0 1.151 0.933 2.083 2.083 2.083v0z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M2.083 37.5h37.5c1.151 0 2.083 0.933 2.083 2.083v4.167c0 1.151-0.933 2.083-2.083 2.083h-37.5c-1.151 0-2.083-0.933-2.083-2.083v-4.167c0-1.151 0.933-2.083 2.083-2.083z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M2.083 52.083h37.5c1.151 0 2.083 0.933 2.083 2.083v4.167c0 1.151-0.933 2.083-2.083 2.083h-37.5c-1.151 0-2.083-0.933-2.083-2.083v-4.167c0-1.151 0.933-2.083 2.083-2.083z"></path>
+<path fill="param(fill) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M39.583 66.667h-37.5c-1.151 0-2.083 0.933-2.083 2.083v0 27.083c0 2.301 1.866 4.167 4.167 4.167h33.333c2.301-0 4.167-1.866 4.167-4.167v0-27.083c0-1.151-0.933-2.083-2.083-2.083v0z"></path>
+</svg>
