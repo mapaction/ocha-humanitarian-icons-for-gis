@@ -23,14 +23,14 @@ The following formats have been created:
 * .style for use in ArcMap 10.6
 * .stylx for use in ArcGIS Pro 2.5
 #### QGIS
-* .xml using the .ttf font file for use in QGIS 3.4.4 and above
-* .xml using the .svg files for use in QGIS 3.4.4 and above
+* .xml using the .ttf font file for use in QGIS 3.10 and above
+* .xml using the .svg files for use in QGIS 3.10 and above
 
 ## How to use
 * [How to install the humanitarian icon font](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icon-font.md)
 * [How to install the humanitarian icons in ArcMap 10.6](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icons-in-arcmap-10-6.md)
 * [How to install the humanitarian icons in ArcGIS Pro 2.5](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icons-in-arcgis-pro-2-5.md)
-* [How to install the humanitarian icons in QGIS](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icons-in-qgis.md)
+* [How to install the humanitarian icons in QGIS 3.10](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/how-to-install-the-humanitarian-icons-in-qgis.md)
 
 ## All documentation
 * [All documentation](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/all-documentation.md)
@@ -48,5 +48,5 @@ The following formats have been created:
 * [ArcMap 10.6 .style file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-106/humanitarian-icons-arcgis-106.style)
 * [ArcGIS Pro 2.5 .stylx file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-arcgis-pro/humanitarian-icons-arcgis-pro.stylx)
 #### QGIS
-* [QGIS .ttf file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-ttf.xml)
-* [QGIS .svg file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-svg.xml)
+* [QGIS .xml style file for font styes](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-ttf.xml)
+* [QGIS .xml style file for svg styles](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-svg.xml)
