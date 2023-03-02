@@ -1,7 +1,7 @@
 # How to install the humanitarian icons in QGIS 3.10 and above
 <img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/qgis-logo.jpg" alt="QGIS Logo" width="150" align="right" >The following instructions will take you through installing the icons to use in QGIS 3.10 and above (though they should also work for earlier versions).
 
-There are two options available, font and SVG - you can only use one of the options at one time (unless you manually change the name of each symbol) - i.e. installing the SVG symbols will overwrite the font symbols. However even if you only use the font symbols, you can still download the SVG images and use them in your maps. Conversely you can use the install the SVG symbols and the .ttf font, and have access to the symbols as font markers.
+There are two options available, font and SVG, You can install one set, or both sets in parallel - each style has a label indicating whehter it is uses a font or an SVG marker. Whichever you install, you can also have the font or SVG markers available for use in your maps, as long as you install the font and download the SVG files.
 
 ## You will need
 For the Font method
@@ -30,14 +30,15 @@ For the SVG method
 10. If required, add tags in 'Additional Tag(s)' - but note that all symbols already have specific tags as well as the tag 'humanitarian icons'.
 11. When ready click Import.
 12. Click 'yes' to overwrite any existing symbols with the same name.
-13. They will be loaded, and you can then check that they have correctly loaded in the Style Manager dialogue box.
+13. They will be loaded (it may take a few minutes), and you can then check that they have correctly loaded in the Style Manager dialogue box.
 
 ## Installation for the SVG method
 1. Download the .svg files - [SVG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-svg.zip), unblock the zip if necessary (right-click > Properties > General) and unzip.
 2. Download the .xml style file - [QGIS humanitarian-icons-v2-1-qgis-svg.xml file](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-qgis/humanitarian-icons-v2-1-qgis-svg.xml) - it doesn't matter where this file is.
 
 ### Save the SVG files
-3. Copy the humanitarian-icons-v2-1-svg folder into an SVG folder which is referenced in Settings > Options > System > SVG paths. In Windows, this will normally be C:\Users\[user_name]\AppData\Roaming\QGIS\QGIS3\profiles\default\svg - you may have to create the folder. Keep the folder name (humanitarian-icons-v2-1-svg) as is, as it's referenced in the style file.
+3. Copy the humanitarian-icons-v2-1-svg folder into a suitable location on your drive.
+4. In QGIS, got to  Settings > Options > System > SVG paths, and add the humanitarian-icons-v2-1-svg folder to the list of paths.
 
 ### Install the .xml file
 4. Open QGIS.
@@ -52,8 +53,5 @@ For the SVG method
 
 <img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/qgis-style-manager.jpg" alt="QGIS Style Manager" width="95%" align="centre" >
 
-## Note
-The icons have been created and tested in QGIS 3.10 (the current LTR) but should work in earlier versions of QGIS too.
-
 ## Further guidance
-* [QGIS - The Style Manager Help](https://docs.qgis.org/3.10/en/docs/user_manual/style_library/style_manager.html).
+* [QGIS - The Style Manager Help](https://docs.qgis.org/3.22/en/docs/user_manual/style_library/style_manager.html).
