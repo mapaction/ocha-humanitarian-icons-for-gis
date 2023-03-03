@@ -31,8 +31,8 @@ For the SVG method
 16. They will be loaded (it may take a few minutes) - check that they have correctly loaded in the Style Manager dialogue
 
 ## Installation for the SVG method
-1. Check that the SVG files are the MapAction CMF at GIS\3_Mapping\31_Resources\311_Symbolsets\ocha-humanitarian-icons-for-gis\humanitarian-icons-v2-1-svg
-2. If they are not, download the .svg files - [SVG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-svg.zip), unblock the zip if necessary (*right-click > Properties > General*) and unzip to a suitable location
+1. Check whether the SVG files are in the MapAction CMF at GIS\3_Mapping\31_Resources\311_Symbolsets\ocha-humanitarian-icons-for-gis\humanitarian-icons-v2-1-svg
+2. If they are not, or if you also want a local copy, download the .svg files - [SVG files](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/raw/humanitarian-icons-v2/humanitarian-icons-v2-1-svg/humanitarian-icons-v2-1-svg.zip), unblock the zip if necessary (*right-click > Properties > General*) and unzip to a suitable location
 3. In QGIS, go to  *Settings > Options > System > SVG paths*, and add the humanitarian-icons-v2-1-svg folder to the list of paths
 4.Go to *Settings > Style Manager > Import/ Export > Import Items(s)*
 8. Set *Import from* to *URL*
