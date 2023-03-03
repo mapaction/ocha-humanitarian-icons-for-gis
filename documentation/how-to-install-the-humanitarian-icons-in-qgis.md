@@ -46,7 +46,7 @@ For the SVG method
 16. They will be loaded (it may take a few minutes) - check that they have correctly loaded in the Style Manager dialogue
 
 
-<img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/qgis-style-manager.jpg" alt="QGIS Style Manager" width="95%" align="centre" >
+<img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/qgis-style-manager.png" alt="QGIS Style Manager" width="95%" align="centre" >
 
 ## Further guidance
 * [QGIS - The Style Manager Help](https://docs.qgis.org/3.22/en/docs/user_manual/style_library/style_manager.html).
