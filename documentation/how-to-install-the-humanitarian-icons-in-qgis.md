@@ -1,4 +1,4 @@
-# How to install the humanitarian icons in QGIS 3.10 and above
+# How to install the humanitarian icons in QGIS 3.28 and above
 <img src="https://github.com/mapaction/ocha-humanitarian-icons-for-gis/blob/humanitarian-icons-v2/documentation/images/qgis-logo.jpg" alt="QGIS Logo" width="150" align="right" >These instructions take you through installing the icons to use in QGIS 3.28 and above (though they should also work for earlier versions).
 
 There are two options available, font and SVG, You can install one set, or both sets in parallel - each style has a label indicating whether it is uses a font or an SVG marker. Whichever you install, you can also have the font or SVG markers available for use in your maps, as long as you install the font and download the SVG files (or reference them in the MapAction CMF).
