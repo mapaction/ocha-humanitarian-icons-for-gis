@@ -6,7 +6,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="abduction-kidnapping.svg" k="name"/>
@@ -61,7 +61,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="about.svg" k="name"/>
@@ -116,7 +116,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="add.svg" k="name"/>
@@ -171,7 +171,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="add-document.svg" k="name"/>
@@ -227,7 +227,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="advocacy.svg" k="name"/>
@@ -282,7 +282,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="affected-population.svg" k="name"/>
@@ -338,7 +338,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="agile.svg" k="name"/>
@@ -393,7 +393,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="agriculture.svg" k="name"/>
@@ -448,7 +448,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="airport.svg" k="name"/>
@@ -503,7 +503,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="airport-affected.svg" k="name"/>
@@ -558,7 +558,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="airport-closed.svg" k="name"/>
@@ -613,7 +613,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="airport-destroyed.svg" k="name"/>
@@ -668,7 +668,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="airport-military.svg" k="name"/>
@@ -723,7 +723,7 @@
          tags="humanitarian icons - SVG, damage" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="airport-not-affected.svg" k="name"/>
@@ -778,7 +778,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="alert.svg" k="name"/>
@@ -834,7 +834,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="analysis.svg" k="name"/>
@@ -890,7 +890,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="arrest-detention.svg" k="name"/>
@@ -946,7 +946,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="assault.svg" k="name"/>
@@ -1002,7 +1002,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="assembly-point.svg" k="name"/>
@@ -1058,7 +1058,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="assessment.svg" k="name"/>
@@ -1114,7 +1114,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="attack.svg" k="name"/>
@@ -1169,7 +1169,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bacteria.svg" k="name"/>
@@ -1225,7 +1225,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="blanket.svg" k="name"/>
@@ -1280,7 +1280,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="blog.svg" k="name"/>
@@ -1335,7 +1335,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="boat.svg" k="name"/>
@@ -1390,7 +1390,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bookmark.svg" k="name"/>
@@ -1445,7 +1445,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="border-closed.svg" k="name"/>
@@ -1501,7 +1501,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="border-crossing.svg" k="name"/>
@@ -1557,7 +1557,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="borehole.svg" k="name"/>
@@ -1613,7 +1613,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bottled-water.svg" k="name"/>
@@ -1668,7 +1668,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bridge.svg" k="name"/>
@@ -1723,7 +1723,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bridge-affected.svg" k="name"/>
@@ -1778,7 +1778,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bridge-closed.svg" k="name"/>
@@ -1833,7 +1833,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bridge-destroyed.svg" k="name"/>
@@ -1888,7 +1888,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bridge-not-affected.svg" k="name"/>
@@ -1944,7 +1944,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bucket.svg" k="name"/>
@@ -2000,7 +2000,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="buddhist-temple.svg" k="name"/>
@@ -2056,7 +2056,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="building.svg" k="name"/>
@@ -2111,7 +2111,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="building-closed.svg" k="name"/>
@@ -2166,7 +2166,7 @@
          tags="humanitarian icons - SVG, damage" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="building-facility-affected.svg" k="name"/>
@@ -2221,7 +2221,7 @@
          tags="humanitarian icons - SVG, damage" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="building-facility-destroyed.svg" k="name"/>
@@ -2276,7 +2276,7 @@
          tags="humanitarian icons - SVG, damage" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="building-facility-not-affected.svg" k="name"/>
@@ -2331,7 +2331,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="bus.svg" k="name"/>
@@ -2386,7 +2386,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="calendar.svg" k="name"/>
@@ -2441,7 +2441,7 @@
          tags="humanitarian icons - SVG, clusters" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="camp-coordination-and-camp-management.svg" k="name"/>
@@ -2496,7 +2496,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="car.svg" k="name"/>
@@ -2552,7 +2552,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="carjacking.svg" k="name"/>
@@ -2607,7 +2607,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="case-management.svg" k="name"/>
@@ -2663,7 +2663,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="cash-transfer.svg" k="name"/>
@@ -2719,7 +2719,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="cell-tower.svg" k="name"/>
@@ -2774,7 +2774,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="chart.svg" k="name"/>
@@ -2829,7 +2829,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="chat.svg" k="name"/>
@@ -2885,7 +2885,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="checkpoint.svg" k="name"/>
@@ -2940,7 +2940,7 @@
          tags="humanitarian icons - SVG, other sectors" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="child-care-child-friendly.svg" k="name"/>
@@ -2995,7 +2995,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="child-combatant.svg" k="name"/>
@@ -3050,7 +3050,7 @@
          tags="humanitarian icons - SVG, other sectors" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="child-protection.svg" k="name"/>
@@ -3105,7 +3105,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="children.svg" k="name"/>
@@ -3161,7 +3161,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="church.svg" k="name"/>
@@ -3217,7 +3217,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="civil-military-coordination.svg" k="name"/>
@@ -3273,7 +3273,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="clinic.svg" k="name"/>
@@ -3329,7 +3329,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="clothing.svg" k="name"/>
@@ -3385,7 +3385,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="cold-wave.svg" k="name"/>
@@ -3441,7 +3441,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="communal-latrine.svg" k="name"/>
@@ -3497,7 +3497,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="community-building.svg" k="name"/>
@@ -3553,7 +3553,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="community-engagement.svg" k="name"/>
@@ -3609,7 +3609,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="computer.svg" k="name"/>
@@ -3665,7 +3665,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="confinement.svg" k="name"/>
@@ -3721,7 +3721,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="conflict.svg" k="name"/>
@@ -3777,7 +3777,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="coordinated-assessement.svg" k="name"/>
@@ -3832,7 +3832,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="coordination.svg" k="name"/>
@@ -3887,7 +3887,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="copy.svg" k="name"/>
@@ -3943,7 +3943,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="country.svg" k="name"/>
@@ -3998,7 +3998,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="covid-19.svg" k="name"/>
@@ -4054,7 +4054,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="cyclone.svg" k="name"/>
@@ -4109,7 +4109,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="damaged-affected.svg" k="name"/>
@@ -4165,7 +4165,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="dangerous-area.svg" k="name"/>
@@ -4220,7 +4220,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="data.svg" k="name"/>
@@ -4275,7 +4275,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="dead.svg" k="name"/>
@@ -4331,7 +4331,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="debris-management.svg" k="name"/>
@@ -4387,7 +4387,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="deployment.svg" k="name"/>
@@ -4442,7 +4442,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="destroyed.svg" k="name"/>
@@ -4498,7 +4498,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="detergent.svg" k="name"/>
@@ -4554,7 +4554,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="diplomatic-mission.svg" k="name"/>
@@ -4610,7 +4610,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="distribution-site.svg" k="name"/>
@@ -4665,7 +4665,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="doctor.svg" k="name"/>
@@ -4720,7 +4720,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="document.svg" k="name"/>
@@ -4775,7 +4775,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="down.svg" k="name"/>
@@ -4830,7 +4830,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="download.svg" k="name"/>
@@ -4886,7 +4886,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="drought.svg" k="name"/>
@@ -4941,7 +4941,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="drowned.svg" k="name"/>
@@ -4996,7 +4996,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="early-recovery.svg" k="name"/>
@@ -5052,7 +5052,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="earthmound.svg" k="name"/>
@@ -5108,7 +5108,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="earthquake.svg" k="name"/>
@@ -5163,7 +5163,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="education.svg" k="name"/>
@@ -5218,7 +5218,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="elderly.svg" k="name"/>
@@ -5274,7 +5274,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="email.svg" k="name"/>
@@ -5329,7 +5329,7 @@
          tags="humanitarian icons - SVG, clusters" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="emergency-telecommunications.svg" k="name"/>
@@ -5384,7 +5384,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="environment.svg" k="name"/>
@@ -5440,7 +5440,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="epidemic.svg" k="name"/>
@@ -5495,7 +5495,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="exit-cancel.svg" k="name"/>
@@ -5551,7 +5551,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="famine.svg" k="name"/>
@@ -5606,7 +5606,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="favourite.svg" k="name"/>
@@ -5662,7 +5662,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="fax.svg" k="name"/>
@@ -5717,7 +5717,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="ferry.svg" k="name"/>
@@ -5772,7 +5772,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="film.svg" k="name"/>
@@ -5827,7 +5827,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="filter.svg" k="name"/>
@@ -5883,7 +5883,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="financing.svg" k="name"/>
@@ -5939,7 +5939,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="fire.svg" k="name"/>
@@ -5995,7 +5995,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="fire-station.svg" k="name"/>
@@ -6050,7 +6050,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="fishery.svg" k="name"/>
@@ -6106,7 +6106,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="flash-flood.svg" k="name"/>
@@ -6162,7 +6162,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="flood.svg" k="name"/>
@@ -6218,7 +6218,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="flour.svg" k="name"/>
@@ -6273,7 +6273,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="folder.svg" k="name"/>
@@ -6329,7 +6329,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="food.svg" k="name"/>
@@ -6384,7 +6384,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="food-security.svg" k="name"/>
@@ -6440,7 +6440,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="food-warehouse.svg" k="name"/>
@@ -6496,7 +6496,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="forced-entry.svg" k="name"/>
@@ -6552,7 +6552,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="forced-recruitment.svg" k="name"/>
@@ -6607,7 +6607,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="fund.svg" k="name"/>
@@ -6663,7 +6663,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="gap-analysis.svg" k="name"/>
@@ -6718,7 +6718,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="gas-station.svg" k="name"/>
@@ -6773,7 +6773,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="gender.svg" k="name"/>
@@ -6829,7 +6829,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="gender-based-violence.svg" k="name"/>
@@ -6884,7 +6884,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="go.svg" k="name"/>
@@ -6940,7 +6940,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="government-office.svg" k="name"/>
@@ -6995,7 +6995,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="group.svg" k="name"/>
@@ -7050,7 +7050,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="handwashing.svg" k="name"/>
@@ -7106,7 +7106,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="harassment-intimidation.svg" k="name"/>
@@ -7161,7 +7161,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="health.svg" k="name"/>
@@ -7217,7 +7217,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="health-facility.svg" k="name"/>
@@ -7272,7 +7272,7 @@
          tags="humanitarian icons - SVG, damage" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="health-facility-affected.svg" k="name"/>
@@ -7327,7 +7327,7 @@
          tags="humanitarian icons - SVG, damage" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="health-facility-destroyed.svg" k="name"/>
@@ -7382,7 +7382,7 @@
          tags="humanitarian icons - SVG, damage" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="health-facility-not-affected.svg" k="name"/>
@@ -7438,7 +7438,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="health-post.svg" k="name"/>
@@ -7493,7 +7493,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="health-worker.svg" k="name"/>
@@ -7549,7 +7549,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="heatwave.svg" k="name"/>
@@ -7605,7 +7605,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="heavy-rain.svg" k="name"/>
@@ -7660,7 +7660,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="helicopter.svg" k="name"/>
@@ -7715,7 +7715,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="helipad.svg" k="name"/>
@@ -7770,7 +7770,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="help.svg" k="name"/>
@@ -7825,7 +7825,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="hidden.svg" k="name"/>
@@ -7881,7 +7881,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="hindu-temple.svg" k="name"/>
@@ -7937,7 +7937,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="hospital.svg" k="name"/>
@@ -7992,7 +7992,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="hospital-bed.svg" k="name"/>
@@ -8048,7 +8048,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="hotel.svg" k="name"/>
@@ -8104,7 +8104,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="house.svg" k="name"/>
@@ -8159,7 +8159,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="house-affected.svg" k="name"/>
@@ -8215,7 +8215,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="house-burned.svg" k="name"/>
@@ -8270,7 +8270,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="house-destroyed.svg" k="name"/>
@@ -8325,7 +8325,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="house-lockdown.svg" k="name"/>
@@ -8380,7 +8380,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="house-not-affected.svg" k="name"/>
@@ -8436,7 +8436,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-access.svg" k="name"/>
@@ -8492,7 +8492,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="humanitarian-programme-cycle.svg" k="name"/>
@@ -8547,7 +8547,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="idp-refugee-camp.svg" k="name"/>
@@ -8602,7 +8602,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="indigenous-people.svg" k="name"/>
@@ -8657,7 +8657,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="infant.svg" k="name"/>
@@ -8713,7 +8713,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="infant-formula.svg" k="name"/>
@@ -8768,7 +8768,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="infected.svg" k="name"/>
@@ -8823,7 +8823,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="infection-control.svg" k="name"/>
@@ -8879,7 +8879,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="information-management.svg" k="name"/>
@@ -8935,7 +8935,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="information-technology.svg" k="name"/>
@@ -8991,7 +8991,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="infrastructure.svg" k="name"/>
@@ -9046,7 +9046,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="injured.svg" k="name"/>
@@ -9102,7 +9102,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="innovation.svg" k="name"/>
@@ -9158,7 +9158,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="insect-infestation.svg" k="name"/>
@@ -9214,7 +9214,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="internally-displaced.svg" k="name"/>
@@ -9270,7 +9270,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="internet.svg" k="name"/>
@@ -9326,7 +9326,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="kitchen-set.svg" k="name"/>
@@ -9381,7 +9381,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="laboratory.svg" k="name"/>
@@ -9437,7 +9437,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="landslide-mudslide.svg" k="name"/>
@@ -9493,7 +9493,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="laptop.svg" k="name"/>
@@ -9549,7 +9549,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="latrine-cabin.svg" k="name"/>
@@ -9605,7 +9605,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="leadership.svg" k="name"/>
@@ -9661,7 +9661,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="learning.svg" k="name"/>
@@ -9716,7 +9716,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="life-saving.svg" k="name"/>
@@ -9771,7 +9771,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="link.svg" k="name"/>
@@ -9827,7 +9827,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="livelihood.svg" k="name"/>
@@ -9883,7 +9883,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="livestock.svg" k="name"/>
@@ -9938,7 +9938,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="location.svg" k="name"/>
@@ -9993,7 +9993,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="location-lockdown.svg" k="name"/>
@@ -10049,7 +10049,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="locust-infestation.svg" k="name"/>
@@ -10104,7 +10104,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="logistics.svg" k="name"/>
@@ -10159,7 +10159,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="map.svg" k="name"/>
@@ -10215,7 +10215,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="market.svg" k="name"/>
@@ -10270,7 +10270,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="market-closed.svg" k="name"/>
@@ -10325,7 +10325,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="mask.svg" k="name"/>
@@ -10381,7 +10381,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="mattress.svg" k="name"/>
@@ -10437,7 +10437,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="medical-supply.svg" k="name"/>
@@ -10493,7 +10493,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="medicine.svg" k="name"/>
@@ -10549,7 +10549,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="meeting.svg" k="name"/>
@@ -10604,7 +10604,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="menu.svg" k="name"/>
@@ -10660,7 +10660,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="military-gate.svg" k="name"/>
@@ -10715,7 +10715,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="mine.svg" k="name"/>
@@ -10770,7 +10770,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="missing.svg" k="name"/>
@@ -10826,7 +10826,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="mobile-clinic.svg" k="name"/>
@@ -10882,7 +10882,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="mobile-phone.svg" k="name"/>
@@ -10938,7 +10938,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="monitor.svg" k="name"/>
@@ -10994,7 +10994,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="monitoring.svg" k="name"/>
@@ -11049,7 +11049,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="more-options.svg" k="name"/>
@@ -11105,7 +11105,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="mosque.svg" k="name"/>
@@ -11161,7 +11161,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="mosquito-net.svg" k="name"/>
@@ -11216,7 +11216,7 @@
          tags="humanitarian icons - SVG, other sectors" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="multi-cluster-sector.svg" k="name"/>
@@ -11272,7 +11272,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="murder.svg" k="name"/>
@@ -11327,7 +11327,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="national-army.svg" k="name"/>
@@ -11383,7 +11383,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="needs-assessment.svg" k="name"/>
@@ -11438,7 +11438,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="next-item.svg" k="name"/>
@@ -11494,7 +11494,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="ngo-office.svg" k="name"/>
@@ -11550,7 +11550,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="non-food-items.svg" k="name"/>
@@ -11606,7 +11606,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="non-food-items-2.svg" k="name"/>
@@ -11661,7 +11661,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="not-affected.svg" k="name"/>
@@ -11716,7 +11716,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="not-infected.svg" k="name"/>
@@ -11771,7 +11771,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="notification.svg" k="name"/>
@@ -11826,7 +11826,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="nutrition.svg" k="name"/>
@@ -11882,7 +11882,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="observation-tower.svg" k="name"/>
@@ -11938,7 +11938,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="oil.svg" k="name"/>
@@ -11994,7 +11994,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="oil-facility.svg" k="name"/>
@@ -12049,7 +12049,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="out-of-platform.svg" k="name"/>
@@ -12105,7 +12105,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="partnership.svg" k="name"/>
@@ -12160,7 +12160,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="pause.svg" k="name"/>
@@ -12215,7 +12215,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="peacekeeping-force.svg" k="name"/>
@@ -12270,7 +12270,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="people-in-need.svg" k="name"/>
@@ -12325,7 +12325,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="people-targeted.svg" k="name"/>
@@ -12380,7 +12380,7 @@
          tags="humanitarian icons - SVG, people" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="people-with-physical-impairments.svg" k="name"/>
@@ -12435,7 +12435,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="permanent-camp.svg" k="name"/>
@@ -12490,7 +12490,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="person-1.svg" k="name"/>
@@ -12545,7 +12545,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="person-2.svg" k="name"/>
@@ -12600,7 +12600,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="photo.svg" k="name"/>
@@ -12656,7 +12656,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="physical-closure.svg" k="name"/>
@@ -12712,7 +12712,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="plastic-sheeting.svg" k="name"/>
@@ -12768,7 +12768,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="police-station.svg" k="name"/>
@@ -12824,7 +12824,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="policy.svg" k="name"/>
@@ -12880,7 +12880,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="population-growth.svg" k="name"/>
@@ -12936,7 +12936,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="population-return.svg" k="name"/>
@@ -12991,7 +12991,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="port.svg" k="name"/>
@@ -13046,7 +13046,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="port-affected.svg" k="name"/>
@@ -13101,7 +13101,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="port-closed.svg" k="name"/>
@@ -13156,7 +13156,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="port-destroyed.svg" k="name"/>
@@ -13211,7 +13211,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="port-not-affected.svg" k="name"/>
@@ -13267,7 +13267,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="potable-water.svg" k="name"/>
@@ -13323,7 +13323,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="potable-water-source.svg" k="name"/>
@@ -13379,7 +13379,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="poverty.svg" k="name"/>
@@ -13434,7 +13434,7 @@
          tags="humanitarian icons - SVG, damage" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="power-electricity-affected.svg" k="name"/>
@@ -13489,7 +13489,7 @@
          tags="humanitarian icons - SVG, damage" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="power-electricity-not-affected.svg" k="name"/>
@@ -13545,7 +13545,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="power-electricity.svg" k="name"/>
@@ -13600,7 +13600,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="power-outage.svg" k="name"/>
@@ -13655,7 +13655,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="pregnant.svg" k="name"/>
@@ -13711,7 +13711,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="preparedness.svg" k="name"/>
@@ -13766,7 +13766,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="previous-item.svg" k="name"/>
@@ -13821,7 +13821,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="print.svg" k="name"/>
@@ -13876,7 +13876,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="protection.svg" k="name"/>
@@ -13932,7 +13932,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="public-information.svg" k="name"/>
@@ -13988,7 +13988,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="radio.svg" k="name"/>
@@ -14043,7 +14043,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="rebel.svg" k="name"/>
@@ -14099,7 +14099,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="reconstruction.svg" k="name"/>
@@ -14155,7 +14155,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="refugee.svg" k="name"/>
@@ -14210,7 +14210,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="registration.svg" k="name"/>
@@ -14266,7 +14266,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="relief-goods.svg" k="name"/>
@@ -14322,7 +14322,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="remote-support.svg" k="name"/>
@@ -14377,7 +14377,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="remove.svg" k="name"/>
@@ -14432,7 +14432,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="remove-document.svg" k="name"/>
@@ -14487,7 +14487,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="report.svg" k="name"/>
@@ -14543,7 +14543,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="reporting.svg" k="name"/>
@@ -14599,7 +14599,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="resilence.svg" k="name"/>
@@ -14654,7 +14654,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="respiratory.svg" k="name"/>
@@ -14710,7 +14710,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="response.svg" k="name"/>
@@ -14765,7 +14765,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="return.svg" k="name"/>
@@ -14821,7 +14821,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="rice.svg" k="name"/>
@@ -14876,7 +14876,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="road.svg" k="name"/>
@@ -14931,7 +14931,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="road-affected.svg" k="name"/>
@@ -14987,7 +14987,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="road-barrier.svg" k="name"/>
@@ -15042,7 +15042,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="road-closed.svg" k="name"/>
@@ -15097,7 +15097,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="road-destroyed.svg" k="name"/>
@@ -15152,7 +15152,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="road-not-affected.svg" k="name"/>
@@ -15208,7 +15208,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="roadblock.svg" k="name"/>
@@ -15264,7 +15264,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="robbery.svg" k="name"/>
@@ -15319,7 +15319,7 @@
          tags="humanitarian icons - SVG, other sectors" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="rule-of-law-and-justice.svg" k="name"/>
@@ -15375,7 +15375,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="rural.svg" k="name"/>
@@ -15431,7 +15431,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="rural-exodus.svg" k="name"/>
@@ -15486,7 +15486,7 @@
          tags="humanitarian icons - SVG, other sectors" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="safety-and-security.svg" k="name"/>
@@ -15542,7 +15542,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="salt.svg" k="name"/>
@@ -15598,7 +15598,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="sanitation.svg" k="name"/>
@@ -15653,7 +15653,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="sanitizer.svg" k="name"/>
@@ -15709,7 +15709,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="satellite-dish.svg" k="name"/>
@@ -15764,7 +15764,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="save.svg" k="name"/>
@@ -15820,7 +15820,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="scale-down-operation.svg" k="name"/>
@@ -15876,7 +15876,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="scale-up-operation.svg" k="name"/>
@@ -15932,7 +15932,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="school.svg" k="name"/>
@@ -15987,7 +15987,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="school-affected.svg" k="name"/>
@@ -16042,7 +16042,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="school-closed.svg" k="name"/>
@@ -16097,7 +16097,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="school-destroyed.svg" k="name"/>
@@ -16152,7 +16152,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="school-not-affected.svg" k="name"/>
@@ -16207,7 +16207,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="search.svg" k="name"/>
@@ -16263,7 +16263,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="search-and-rescue.svg" k="name"/>
@@ -16318,7 +16318,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="see.svg" k="name"/>
@@ -16373,7 +16373,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="selected.svg" k="name"/>
@@ -16429,7 +16429,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="services-and-tools.svg" k="name"/>
@@ -16484,7 +16484,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="settings.svg" k="name"/>
@@ -16540,7 +16540,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="sexual-and-reproductive-health.svg" k="name"/>
@@ -16596,7 +16596,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="sexual-violence.svg" k="name"/>
@@ -16651,7 +16651,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="share.svg" k="name"/>
@@ -16706,7 +16706,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="shelter.svg" k="name"/>
@@ -16761,7 +16761,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="ship.svg" k="name"/>
@@ -16817,7 +16817,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="shower.svg" k="name"/>
@@ -16873,7 +16873,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="smartphone.svg" k="name"/>
@@ -16929,7 +16929,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="snow-avalanche.svg" k="name"/>
@@ -16985,7 +16985,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="snowfall.svg" k="name"/>
@@ -17041,7 +17041,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="soap.svg" k="name"/>
@@ -17096,7 +17096,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="social-distancing.svg" k="name"/>
@@ -17152,7 +17152,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="solid-waste.svg" k="name"/>
@@ -17207,7 +17207,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="spontaneous-site.svg" k="name"/>
@@ -17263,7 +17263,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="spring-water.svg" k="name"/>
@@ -17319,7 +17319,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="staff-management.svg" k="name"/>
@@ -17374,7 +17374,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="stop.svg" k="name"/>
@@ -17430,7 +17430,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="storm.svg" k="name"/>
@@ -17486,7 +17486,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="storm-surge.svg" k="name"/>
@@ -17542,7 +17542,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="stove.svg" k="name"/>
@@ -17598,7 +17598,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="submersible-pump.svg" k="name"/>
@@ -17654,7 +17654,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="sugar.svg" k="name"/>
@@ -17709,7 +17709,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="table.svg" k="name"/>
@@ -17765,7 +17765,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="tarpaulin.svg" k="name"/>
@@ -17821,7 +17821,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="technological-disaster.svg" k="name"/>
@@ -17876,7 +17876,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="temporary-camp.svg" k="name"/>
@@ -17932,7 +17932,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="tent.svg" k="name"/>
@@ -17987,7 +17987,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="testing.svg" k="name"/>
@@ -18043,7 +18043,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="toilet.svg" k="name"/>
@@ -18099,7 +18099,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="top-ranking.svg" k="name"/>
@@ -18155,7 +18155,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="tornado.svg" k="name"/>
@@ -18211,7 +18211,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="trade-and-market.svg" k="name"/>
@@ -18266,7 +18266,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="train.svg" k="name"/>
@@ -18322,7 +18322,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="training.svg" k="name"/>
@@ -18377,7 +18377,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="transition-site.svg" k="name"/>
@@ -18432,7 +18432,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="trending.svg" k="name"/>
@@ -18487,7 +18487,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="truck.svg" k="name"/>
@@ -18543,7 +18543,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="tsunami.svg" k="name"/>
@@ -18598,7 +18598,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="tunnel.svg" k="name"/>
@@ -18654,7 +18654,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="un-compound-office.svg" k="name"/>
@@ -18709,7 +18709,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="un-vehicle.svg" k="name"/>
@@ -18765,7 +18765,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="university.svg" k="name"/>
@@ -18820,7 +18820,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="up.svg" k="name"/>
@@ -18875,7 +18875,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="upload.svg" k="name"/>
@@ -18931,7 +18931,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="urban.svg" k="name"/>
@@ -18987,7 +18987,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="urban-rural.svg" k="name"/>
@@ -19042,7 +19042,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="user.svg" k="name"/>
@@ -19097,7 +19097,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="users.svg" k="name"/>
@@ -19153,7 +19153,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="vaccine.svg" k="name"/>
@@ -19208,7 +19208,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="ventilator.svg" k="name"/>
@@ -19263,7 +19263,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="video.svg" k="name"/>
@@ -19319,7 +19319,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="violent-wind.svg" k="name"/>
@@ -19374,7 +19374,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="virus.svg" k="name"/>
@@ -19430,7 +19430,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="volcano.svg" k="name"/>
@@ -19486,7 +19486,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="walkie-talkie.svg" k="name"/>
@@ -19541,7 +19541,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="warning-error.svg" k="name"/>
@@ -19597,7 +19597,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="water-source.svg" k="name"/>
@@ -19653,7 +19653,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="water-trucking.svg" k="name"/>
@@ -19708,7 +19708,7 @@
          tags="humanitarian icons - SVG, clusters" alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="water-sanitation-and-hygiene.svg" k="name"/>
@@ -19764,7 +19764,7 @@
          clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="work-from-home.svg" k="name"/>
@@ -19820,7 +19820,7 @@
          force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="worm-infestation.svg" k="name"/>
@@ -19875,7 +19875,7 @@
          alpha="1" clip_to_extent="1" force_rhr="0">
          <layer enabled="1" class="SvgMarker" pass="0" locked="0">
             <prop v="0" k="angle"/>
-            <prop v="0,0,0,255" k="color"/>
+           <prop k="color" v="65,143,222,255"/>
             <prop v="0" k="fixedAspectRatio"/>
             <prop v="1" k="horizontal_anchor_point"/>
             <prop v="zip-compressed.svg" k="name"/>
