@@ -21,7 +21,7 @@ The following formats have been created:
 ### GIS Friendly
 #### ESRI
 * .style for use in ArcMap 10.6
-* .stylx for use in ArcGIS Pro 2.5
+* .stylx for use in ArcGIS Pro 2.5 to 3.1
 #### QGIS
 * .xml using the .ttf font file for use in QGIS 3.4.4 and above
 * .xml using the .svg files for use in QGIS 3.4.4 and above
