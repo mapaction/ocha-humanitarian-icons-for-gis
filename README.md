@@ -5,6 +5,8 @@
 * [Version 1.0 - 2012](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/tree/humanitarian-icons-v1)
 * Version 2.0 - 2019 - A refresh and update of the version 1 icons.
 * [Version 2.1 - 2020](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/tree/humanitarian-icons-v1) - The addition of COVID-19 related icons.
+* [Version 2.2 - 2021](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/tree/humanitarian-icons-v1) - Minor updates.
+* [Version 2.3 - 2024](https://github.com/mapaction/ocha-humanitarian-icons-for-gis/tree/humanitarian-icons-v1) - Nutrtion icon updated.
 
 ## Formats
 The following formats have been created:
