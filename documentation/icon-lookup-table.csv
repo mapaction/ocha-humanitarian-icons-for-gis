@@ -1,0 +1,378 @@
+﻿name,category,unicode,decimal,svg_filename,png_filename
+"Abduction kidnapping","Security and Incident",U+E900,59648,abduction-kidnapping.svg,abduction-kidnapping.png
+"About","UX / UI",U+E901,59649,about.svg,about.png
+"Add","UX / UI",U+E902,59650,add.svg,add.png
+"Add document","UX / UI",U+E903,59651,add-document.svg,add-document.png
+"Advocacy","Activities / Strategy",U+E904,59652,advocacy.svg,advocacy.png
+"Affected population","People",U+E905,59653,affected-population.svg,affected-population.png
+"Agile","Activities / Strategy",U+E906,59654,agile.svg,agile.png
+"Agriculture","Other Sectors",U+E907,59655,agriculture.svg,agriculture.png
+"Airport","Logistics",U+E908,59656,airport.svg,airport.png
+"Airport affected","Damage",U+E909,59657,airport-affected.svg,airport-affected.png
+"Airport closed","Lockdown",U+E90A,59658,airport-closed.svg,airport-closed.png
+"Airport destroyed","Damage",U+E90B,59659,airport-destroyed.svg,airport-destroyed.png
+"Airport military","Logistics",U+E90C,59660,airport-military.svg,airport-military.png
+"Airport not affected","Damage",U+E90D,59661,airport-not-affected.svg,airport-not-affected.png
+"Alert","UX / UI",U+E90E,59662,alert.svg,alert.png
+"Analysis","Activities / Strategy",U+E90F,59663,analysis.svg,analysis.png
+"Apps","UX / UI",U+EA67,60007,apps.svg,apps.png
+"Arrest detention","Security and Incident",U+E910,59664,arrest-detention.svg,arrest-detention.png
+"Assault","Security and Incident",U+E911,59665,assault.svg,assault.png
+"Assembly point","General Infrastructure",U+E912,59666,assembly-point.svg,assembly-point.png
+"Assessment","Activities / Strategy",U+E913,59667,assessment.svg,assessment.png
+"Attack","Security and Incident",U+E914,59668,attack.svg,attack.png
+"Bacteria","Health",U+E915,59669,bacteria.svg,bacteria.png
+"Blanket","Food and Non-Food Items",U+E916,59670,blanket.svg,blanket.png
+"Blog","UX / UI",U+E917,59671,blog.svg,blog.png
+"Boat","Logistics",U+E918,59672,boat.svg,boat.png
+"Bookmark","UX / UI",U+E919,59673,bookmark.svg,bookmark.png
+"Border closed","Lockdown",U+E91A,59674,border-closed.svg,border-closed.png
+"Border crossing","Physical Barriers",U+E91B,59675,border-crossing.svg,border-crossing.png
+"Borehole","Water, Sanitation and Health",U+E91C,59676,borehole.svg,borehole.png
+"Bottled water","Food and Non-Food Items",U+E91D,59677,bottled-water.svg,bottled-water.png
+"Bridge","Logistics",U+E91E,59678,bridge.svg,bridge.png
+"Bridge affected","Damage",U+E91F,59679,bridge-affected.svg,bridge-affected.png
+"Bridge closed","Lockdown",U+E920,59680,bridge-closed.svg,bridge-closed.png
+"Bridge destroyed","Damage",U+E921,59681,bridge-destroyed.svg,bridge-destroyed.png
+"Bridge not affected","Damage",U+E922,59682,bridge-not-affected.svg,bridge-not-affected.png
+"Bucket","Food and Non-Food Items",U+E923,59683,bucket.svg,bucket.png
+"Buddhist temple","General Infrastructure",U+E924,59684,buddhist-temple.svg,buddhist-temple.png
+"Building","General Infrastructure",U+E925,59685,building.svg,building.png
+"Building closed","Lockdown",U+E926,59686,building-closed.svg,building-closed.png
+"Building facility affected","Damage",U+E927,59687,building-facility-affected.svg,building-facility-affected.png
+"Building facility destroyed","Damage",U+E928,59688,building-facility-destroyed.svg,building-facility-destroyed.png
+"Building facility not affected","Damage",U+E929,59689,building-facility-not-affected.svg,building-facility-not-affected.png
+"Bus","Logistics",U+E92A,59690,bus.svg,bus.png
+"Calendar","Product Type",U+E92B,59691,calendar.svg,calendar.png
+"Camp coordination and camp management","Clusters",U+E92C,59692,camp-coordination-and-camp-management.svg,camp-coordination-and-camp-management.png
+"Car","Logistics",U+E92D,59693,car.svg,car.png
+"Carjacking","Security and Incident",U+E92E,59694,carjacking.svg,carjacking.png
+"Case management","Health",U+E92F,59695,case-management.svg,case-management.png
+"Cash transfer","Activities / Strategy",U+E930,59696,cash-transfer.svg,cash-transfer.png
+"Cell tower","Telecommunications and Technology",U+E931,59697,cell-tower.svg,cell-tower.png
+"Chart","Product Type",U+E932,59698,chart.svg,chart.png
+"Chat","UX / UI",U+E933,59699,chat.svg,chat.png
+"Checked mail","UX / UI",U+EA68,60008,checked-mail.svg,checked-mail.png
+"Checkpoint","Physical Barriers",U+E934,59700,checkpoint.svg,checkpoint.png
+"Child care child friendly","Other Sectors",U+E935,59701,child-care-child-friendly.svg,child-care-child-friendly.png
+"Child combatant","People",U+E936,59702,child-combatant.svg,child-combatant.png
+"Child protection","Other Sectors",U+E937,59703,child-protection.svg,child-protection.png
+"Children","People",U+E938,59704,children.svg,children.png
+"Church","General Infrastructure",U+E939,59705,church.svg,church.png
+"Civil military coordination","Activities / Strategy",U+E93A,59706,civil-military-coordination.svg,civil-military-coordination.png
+"Clinic","General Infrastructure",U+E93B,59707,clinic.svg,clinic.png
+"Clothing","Food and Non-Food Items",U+E93C,59708,clothing.svg,clothing.png
+"Cold wave","Disaster / Hazards and Crises",U+E93D,59709,cold-wave.svg,cold-wave.png
+"Communal latrine","Water, Sanitation and Health",U+E93E,59710,communal-latrine.svg,communal-latrine.png
+"Community building","General Infrastructure",U+E93F,59711,community-building.svg,community-building.png
+"Community engagement","Activities / Strategy",U+E940,59712,community-engagement.svg,community-engagement.png
+"Computer","Telecommunications and Technology",U+E941,59713,computer.svg,computer.png
+"Confined","Security and Incident",U+E942,59714,confined.svg,confined.png
+"Conflict","Disaster / Hazards and Crises",U+E943,59715,conflict.svg,conflict.png
+"Coordinated assessment","Activities / Strategy",U+E944,59716,coordinated-assessment.svg,coordinated-assessment.png
+"Coordination","Other Sectors",U+E945,59717,coordination.svg,coordination.png
+"Copy","UX / UI",U+E946,59718,copy.svg,copy.png
+"Country","General Infrastructure",U+E947,59719,country.svg,country.png
+"COVID 19","Health",U+E948,59720,covid-19.svg,covid-19.png
+"CSV file","UX / UI",U+EA69,60009,csv-file.svg,csv-file.png
+"Cyclone","Disaster / Hazards and Crises",U+E949,59721,cyclone.svg,cyclone.png
+"Damaged affected","Damage",U+E94A,59722,damaged-affected.svg,damaged-affected.png
+"Dangerous area","Security and Incident",U+E94B,59723,dangerous-area.svg,dangerous-area.png
+"Data","Product Type",U+E94C,59724,data.svg,data.png
+"Dead","People",U+E94D,59725,dead.svg,dead.png
+"Debris management","Socioeconomic and Development",U+E94E,59726,debris-management.svg,debris-management.png
+"Delete account","UX / UI",U+EA6A,60010,delete-account.svg,delete-account.png
+"Deployment","Activities / Strategy",U+E94F,59727,deployment.svg,deployment.png
+"Destroyed","Damage",U+E950,59728,destroyed.svg,destroyed.png
+"Detergent","Food and Non-Food Items",U+E951,59729,detergent.svg,detergent.png
+"Diplomatic mission","General Infrastructure",U+E952,59730,diplomatic-mission.svg,diplomatic-mission.png
+"Distribution site","General Infrastructure",U+E953,59731,distribution-site.svg,distribution-site.png
+"Doctor","Health",U+E954,59732,doctor.svg,doctor.png
+"Document","Product Type",U+E955,59733,document.svg,document.png
+"DOCX file","UX / UI",U+EA6B,60011,docx-file.svg,docx-file.png
+"Down","UX / UI",U+E956,59734,down.svg,down.png
+"Download","UX / UI",U+E957,59735,download.svg,download.png
+"Drought","Disaster / Hazards and Crises",U+E958,59736,drought.svg,drought.png
+"Drowned","People",U+E959,59737,drowned.svg,drowned.png
+"E mail","Telecommunications and Technology",U+E95F,59743,e-mail.svg,e-mail.png
+"Early recovery","Clusters",U+E95A,59738,early-recovery.svg,early-recovery.png
+"Earthmound","Physical Barriers",U+E95B,59739,earthmound.svg,earthmound.png
+"Earthquake","Disaster / Hazards and Crises",U+E95C,59740,earthquake.svg,earthquake.png
+"Edit","UX / UI",U+EA6C,60012,edit.svg,edit.png
+"Education","Clusters",U+E95D,59741,education.svg,education.png
+"Elderly","People",U+E95E,59742,elderly.svg,elderly.png
+"Emergency telecommunications","Clusters",U+E960,59744,emergency-telecommunications.svg,emergency-telecommunications.png
+"Environment","Other Sectors",U+E961,59745,environment.svg,environment.png
+"Epidemic","Disaster / Hazards and Crises",U+E962,59746,epidemic.svg,epidemic.png
+"Exit cancel","UX / UI",U+E963,59747,exit-cancel.svg,exit-cancel.png
+"Expand down","UX / UI",U+EA6D,60013,expand-down.svg,expand-down.png
+"Expand left","UX / UI",U+EA6E,60014,expand-left.svg,expand-left.png
+"Expand right","UX / UI",U+EA6F,60015,expand-right.svg,expand-right.png
+"Expand up","UX / UI",U+EA70,60016,expand-up.svg,expand-up.png
+"Famine","Disaster / Hazards and Crises",U+E964,59748,famine.svg,famine.png
+"Favourite","UX / UI",U+E965,59749,favourite.svg,favourite.png
+"Fax","Telecommunications and Technology",U+E966,59750,fax.svg,fax.png
+"Ferry","Logistics",U+E967,59751,ferry.svg,ferry.png
+"Film","Product Type",U+E968,59752,film.svg,film.png
+"Filter","UX / UI",U+E969,59753,filter.svg,filter.png
+"Financing","Activities / Strategy",U+E96A,59754,financing.svg,financing.png
+"Fire","Disaster / Hazards and Crises",U+E96B,59755,fire.svg,fire.png
+"Fire station","General Infrastructure",U+E96C,59756,fire-station.svg,fire-station.png
+"Fishery","Other Sectors",U+E96D,59757,fishery.svg,fishery.png
+"Flash flood","Disaster / Hazards and Crises",U+E96E,59758,flash-flood.svg,flash-flood.png
+"Flood","Disaster / Hazards and Crises",U+E96F,59759,flood.svg,flood.png
+"Flour","Food and Non-Food Items",U+E970,59760,flour.svg,flour.png
+"Folder","UX / UI",U+E971,59761,folder.svg,folder.png
+"Food","Food and Non-Food Items",U+E972,59762,food.svg,food.png
+"Food security","Clusters",U+E973,59763,food-security.svg,food-security.png
+"Food warehouse","General Infrastructure",U+E974,59764,food-warehouse.svg,food-warehouse.png
+"Forced entry","Security and Incident",U+E975,59765,forced-entry.svg,forced-entry.png
+"Forced recruitment","Security and Incident",U+E976,59766,forced-recruitment.svg,forced-recruitment.png
+"Fund","Activities / Strategy",U+E977,59767,fund.svg,fund.png
+"Gap analysis","Activities / Strategy",U+E978,59768,gap-analysis.svg,gap-analysis.png
+"Gas station","Logistics",U+E979,59769,gas-station.svg,gas-station.png
+"Gender","People",U+E97A,59770,gender.svg,gender.png
+"Gender based violence","Security and Incident",U+E97B,59771,gender-based-violence.svg,gender-based-violence.png
+"Go","UX / UI",U+E97C,59772,go.svg,go.png
+"Government office","General Infrastructure",U+E97D,59773,government-office.svg,government-office.png
+"Group","UX / UI",U+E97E,59774,group.svg,group.png
+"Handwashing","Health",U+E97F,59775,handwashing.svg,handwashing.png
+"Harassment intimidation","Security and Incident",U+E980,59776,harassment-intimidation.svg,harassment-intimidation.png
+"Health","Clusters",U+E981,59777,health.svg,health.png
+"Health facility","General Infrastructure",U+E982,59778,health-facility.svg,health-facility.png
+"Health facility affected","Damage",U+E983,59779,health-facility-affected.svg,health-facility-affected.png
+"Health facility destroyed","Damage",U+E984,59780,health-facility-destroyed.svg,health-facility-destroyed.png
+"Health facility not affected","Damage",U+E985,59781,health-facility-not-affected.svg,health-facility-not-affected.png
+"Health post","General Infrastructure",U+E986,59782,health-post.svg,health-post.png
+"Health worker","Health",U+E987,59783,health-worker.svg,health-worker.png
+"Heatwave","Disaster / Hazards and Crises",U+E988,59784,heatwave.svg,heatwave.png
+"Heavy rain","Disaster / Hazards and Crises",U+E989,59785,heavy-rain.svg,heavy-rain.png
+"Helicopter","Logistics",U+E98A,59786,helicopter.svg,helicopter.png
+"Helipad","Logistics",U+E98B,59787,helipad.svg,helipad.png
+"Help","UX / UI",U+E98C,59788,help.svg,help.png
+"Hidden","UX / UI",U+E98D,59789,hidden.svg,hidden.png
+"Hindu temple","General Infrastructure",U+E98E,59790,hindu-temple.svg,hindu-temple.png
+"Hospital","General Infrastructure",U+E98F,59791,hospital.svg,hospital.png
+"Hospital bed","Health",U+E990,59792,hospital-bed.svg,hospital-bed.png
+"Hotel","General Infrastructure",U+E991,59793,hotel.svg,hotel.png
+"House","General Infrastructure",U+E992,59794,house.svg,house.png
+"House affected","Damage",U+E993,59795,house-affected.svg,house-affected.png
+"House burned","Security and Incident",U+E994,59796,house-burned.svg,house-burned.png
+"House destroyed","Damage",U+E995,59797,house-destroyed.svg,house-destroyed.png
+"House lockdown","Lockdown",U+E996,59798,house-lockdown.svg,house-lockdown.png
+"House not affected","Damage",U+E997,59799,house-not-affected.svg,house-not-affected.png
+"Humanitarian access","Disaster / Hazards and Crises",U+E998,59800,humanitarian-access.svg,humanitarian-access.png
+"Humanitarian programme cycle","Activities / Strategy",U+E999,59801,humanitarian-programme-cycle.svg,humanitarian-programme-cycle.png
+"IDP refugee camp","Camp",U+E99A,59802,idp-refugee-camp.svg,idp-refugee-camp.png
+"Indigenous people","People",U+E99B,59803,indigenous-people.svg,indigenous-people.png
+"Infant","People",U+E99C,59804,infant.svg,infant.png
+"Infant formula","Food and Non-Food Items",U+E99D,59805,infant-formula.svg,infant-formula.png
+"Infected","Health",U+E99E,59806,infected.svg,infected.png
+"Infection control","Health",U+E99F,59807,infection-control.svg,infection-control.png
+"Information management","Activities / Strategy",U+E9A0,59808,information-management.svg,information-management.png
+"Information technology","Activities / Strategy",U+E9A1,59809,information-technology.svg,information-technology.png
+"Infrastructure","General Infrastructure",U+E9A2,59810,infrastructure.svg,infrastructure.png
+"Injured","People",U+E9A3,59811,injured.svg,injured.png
+"Innovation","Activities / Strategy",U+E9A4,59812,innovation.svg,innovation.png
+"Insect infestation","Disaster / Hazards and Crises",U+E9A5,59813,insect-infestation.svg,insect-infestation.png
+"Internally displaced","Disaster / Hazards and Crises",U+E9A6,59814,internally-displaced.svg,internally-displaced.png
+"Internet","Telecommunications and Technology",U+E9A7,59815,internet.svg,internet.png
+"Kitchen set","Food and Non-Food Items",U+E9A8,59816,kitchen-set.svg,kitchen-set.png
+"Laboratory","Health",U+E9A9,59817,laboratory.svg,laboratory.png
+"Landslide mudslide","Disaster / Hazards and Crises",U+E9AA,59818,landslide-mudslide.svg,landslide-mudslide.png
+"Laptop","Telecommunications and Technology",U+E9AB,59819,laptop.svg,laptop.png
+"Latrine cabin","Water, Sanitation and Health",U+E9AC,59820,latrine-cabin.svg,latrine-cabin.png
+"Leadership","Activities / Strategy",U+E9AD,59821,leadership.svg,leadership.png
+"Learning","Activities / Strategy",U+E9AE,59822,learning.svg,learning.png
+"Life saving","Health",U+E9AF,59823,life-saving.svg,life-saving.png
+"Link","UX / UI",U+E9B0,59824,link.svg,link.png
+"Livelihood","Socioeconomic and Development",U+E9B1,59825,livelihood.svg,livelihood.png
+"Livestock","Socioeconomic and Development",U+E9B2,59826,livestock.svg,livestock.png
+"Location","Product Type",U+E9B3,59827,location.svg,location.png
+"Location lockdown","Lockdown",U+E9B4,59828,location-lockdown.svg,location-lockdown.png
+"Locust infestation","Disaster / Hazards and Crises",U+E9B5,59829,locust-infestation.svg,locust-infestation.png
+"Logistics","Clusters",U+E9B6,59830,logistics.svg,logistics.png
+"Map","Product Type",U+E9B7,59831,map.svg,map.png
+"Market","General Infrastructure",U+E9B8,59832,market.svg,market.png
+"Market closed","Lockdown",U+E9B9,59833,market-closed.svg,market-closed.png
+"Mask","Health",U+E9BA,59834,mask.svg,mask.png
+"Mattress","Food and Non-Food Items",U+E9BB,59835,mattress.svg,mattress.png
+"Medical supply","Food and Non-Food Items",U+E9BC,59836,medical-supply.svg,medical-supply.png
+"Medicine","Food and Non-Food Items",U+E9BD,59837,medicine.svg,medicine.png
+"Meeting","Activities / Strategy",U+E9BE,59838,meeting.svg,meeting.png
+"Menu","UX / UI",U+E9BF,59839,menu.svg,menu.png
+"Military gate","Physical Barriers",U+E9C0,59840,military-gate.svg,military-gate.png
+"Mine","Security and Incident",U+E9C1,59841,mine.svg,mine.png
+"Missing","People",U+E9C2,59842,missing.svg,missing.png
+"Mobile clinic","General Infrastructure",U+E9C3,59843,mobile-clinic.svg,mobile-clinic.png
+"Mobile phone","Telecommunications and Technology",U+E9C4,59844,mobile-phone.svg,mobile-phone.png
+"Monitor","Telecommunications and Technology",U+E9C5,59845,monitor.svg,monitor.png
+"Monitoring","Activities / Strategy",U+E9C6,59846,monitoring.svg,monitoring.png
+"More options","UX / UI",U+E9C7,59847,more-options.svg,more-options.png
+"Mosque","General Infrastructure",U+E9C8,59848,mosque.svg,mosque.png
+"Mosquito net","Food and Non-Food Items",U+E9C9,59849,mosquito-net.svg,mosquito-net.png
+"Multi cluster sector","Other Sectors",U+E9CA,59850,multi-cluster-sector.svg,multi-cluster-sector.png
+"Murder","Security and Incident",U+E9CB,59851,murder.svg,murder.png
+"National army","People",U+E9CC,59852,national-army.svg,national-army.png
+"Needs assessment","Activities / Strategy",U+E9CD,59853,needs-assessment.svg,needs-assessment.png
+"Next item","UX / UI",U+E9CE,59854,next-item.svg,next-item.png
+"NGO office","General Infrastructure",U+E9CF,59855,ngo-office.svg,ngo-office.png
+"Non food items","Food and Non-Food Items",U+E9D0,59856,non-food-items.svg,non-food-items.png
+"Non food items 2","Food and Non-Food Items",U+E9D1,59857,non-food-items-2.svg,non-food-items-2.png
+"Not affected","Damage",U+E9D2,59858,not-affected.svg,not-affected.png
+"Not infected","Health",U+E9D4,59860,not-infected.svg,not-infected.png
+"Not secured","Security and Incident",U+EA71,60017,not-secured.svg,not-secured.png
+"Notification","UX / UI",U+E9D3,59859,notification.svg,notification.png
+"Nutrition","Clusters",U+E9D5,59861,nutrition.svg,nutrition.png
+"Observation tower","Physical Barriers",U+E9D6,59862,observation-tower.svg,observation-tower.png
+"Oil","Food and Non-Food Items",U+E9D7,59863,oil.svg,oil.png
+"Oil facility","General Infrastructure",U+E9D8,59864,oil-facility.svg,oil-facility.png
+"Out of platform","UX / UI",U+E9D9,59865,out-of-platform.svg,out-of-platform.png
+"Partnership","Activities / Strategy",U+E9DA,59866,partnership.svg,partnership.png
+"Password","UX / UI",U+EA72,60018,password.svg,password.png
+"Pause","UX / UI",U+E9DB,59867,pause.svg,pause.png
+"PDF file","UX / UI",U+EA73,60019,pdf-file.svg,pdf-file.png
+"Peacekeeping force","People",U+E9DC,59868,peacekeeping-force.svg,peacekeeping-force.png
+"People in need","People",U+E9DD,59869,people-in-need.svg,people-in-need.png
+"People targeted","People",U+E9DE,59870,people-targeted.svg,people-targeted.png
+"People with physical impairments","People",U+E9DF,59871,people-with-physical-impairments.svg,people-with-physical-impairments.png
+"Permanent camp","Camp",U+E9E0,59872,permanent-camp.svg,permanent-camp.png
+"Person 1","People",U+E9E1,59873,person-1.svg,person-1.png
+"Person 2","People",U+E9E2,59874,person-2.svg,person-2.png
+"Photo","Product Type",U+E9E3,59875,photo.svg,photo.png
+"Physical closure","Physical Barriers",U+E9E4,59876,physical-closure.svg,physical-closure.png
+"Physical distancing","Health",U+EA34,59956,physical-distancing.svg,physical-distancing.png
+"Plastic sheeting","Food and Non-Food Items",U+E9E5,59877,plastic-sheeting.svg,plastic-sheeting.png
+"Police station","General Infrastructure",U+E9E6,59878,police-station.svg,police-station.png
+"Policy","Activities / Strategy",U+E9E7,59879,policy.svg,policy.png
+"Population growth","Socioeconomic and Development",U+E9E8,59880,population-growth.svg,population-growth.png
+"Population return","Disaster / Hazards and Crises",U+E9E9,59881,population-return.svg,population-return.png
+"Port","Logistics",U+E9EA,59882,port.svg,port.png
+"Port affected","Damage",U+E9EB,59883,port-affected.svg,port-affected.png
+"Port closed","Lockdown",U+E9EC,59884,port-closed.svg,port-closed.png
+"Port destroyed","Damage",U+E9ED,59885,port-destroyed.svg,port-destroyed.png
+"Port not affected","Damage",U+E9EE,59886,port-not-affected.svg,port-not-affected.png
+"Potable water","Water, Sanitation and Health",U+E9EF,59887,potable-water.svg,potable-water.png
+"Potable water source","Water, Sanitation and Health",U+E9F0,59888,potable-water-source.svg,potable-water-source.png
+"Poverty","Disaster / Hazards and Crises",U+E9F1,59889,poverty.svg,poverty.png
+"Power electricity","General Infrastructure",U+E9F2,59890,power-electricity.svg,power-electricity.png
+"Power electricity affected","Damage",U+E9F3,59891,power-electricity-affected.svg,power-electricity-affected.png
+"Power electricity not affected","Damage",U+E9F4,59892,power-electricity-not-affected.svg,power-electricity-not-affected.png
+"Power outage","Damage",U+E9F5,59893,power-outage.svg,power-outage.png
+"Pregnant","People",U+E9F6,59894,pregnant.svg,pregnant.png
+"Preparedness","Activities / Strategy",U+E9F7,59895,preparedness.svg,preparedness.png
+"Previous item","UX / UI",U+E9F8,59896,previous-item.svg,previous-item.png
+"Print","UX / UI",U+E9F9,59897,print.svg,print.png
+"Protection","Clusters",U+E9FA,59898,protection.svg,protection.png
+"Public information","Activities / Strategy",U+E9FB,59899,public-information.svg,public-information.png
+"Radio","Telecommunications and Technology",U+E9FC,59900,radio.svg,radio.png
+"Rebel","People",U+E9FD,59901,rebel.svg,rebel.png
+"Reconstruction","Socioeconomic and Development",U+E9FE,59902,reconstruction.svg,reconstruction.png
+"Refugee","Disaster / Hazards and Crises",U+E9FF,59903,refugee.svg,refugee.png
+"Registration","Camp",U+EA00,59904,registration.svg,registration.png
+"Relief goods","Food and Non-Food Items",U+EA01,59905,relief-goods.svg,relief-goods.png
+"Remote support","Telecommunications and Technology",U+EA02,59906,remote-support.svg,remote-support.png
+"Remove","UX / UI",U+EA03,59907,remove.svg,remove.png
+"Remove document","UX / UI",U+EA04,59908,remove-document.svg,remove-document.png
+"Report","Product Type",U+EA05,59909,report.svg,report.png
+"Reporting","Activities / Strategy",U+EA06,59910,reporting.svg,reporting.png
+"Resilience","Activities / Strategy",U+EA07,59911,resilience.svg,resilience.png
+"Respiratory","Health",U+EA08,59912,respiratory.svg,respiratory.png
+"Response","Activities / Strategy",U+EA09,59913,response.svg,response.png
+"Return","UX / UI",U+EA0A,59914,return.svg,return.png
+"Rice","Food and Non-Food Items",U+EA0B,59915,rice.svg,rice.png
+"Road","Logistics",U+EA0C,59916,road.svg,road.png
+"Road affected","Damage",U+EA0D,59917,road-affected.svg,road-affected.png
+"Road barrier","Physical Barriers",U+EA0E,59918,road-barrier.svg,road-barrier.png
+"Road closed","Lockdown",U+EA10,59920,road-closed.svg,road-closed.png
+"Road destroyed","Damage",U+EA11,59921,road-destroyed.svg,road-destroyed.png
+"Road not affected","Damage",U+EA12,59922,road-not-affected.svg,road-not-affected.png
+"Roadblock","Physical Barriers",U+EA0F,59919,roadblock.svg,roadblock.png
+"Robbery","Security and Incident",U+EA13,59923,robbery.svg,robbery.png
+"Rule of law and justice","Other Sectors",U+EA14,59924,rule-of-law-and-justice.svg,rule-of-law-and-justice.png
+"Rural","Socioeconomic and Development",U+EA15,59925,rural.svg,rural.png
+"Rural exodus","Socioeconomic and Development",U+EA16,59926,rural-exodus.svg,rural-exodus.png
+"Safety and security","Other Sectors",U+EA17,59927,safety-and-security.svg,safety-and-security.png
+"Salt","Food and Non-Food Items",U+EA18,59928,salt.svg,salt.png
+"Sanitation","Water, Sanitation and Health",U+EA19,59929,sanitation.svg,sanitation.png
+"Sanitizer","Health",U+EA1A,59930,sanitizer.svg,sanitizer.png
+"Satellite dish","Telecommunications and Technology",U+EA1B,59931,satellite-dish.svg,satellite-dish.png
+"Save","UX / UI",U+EA1C,59932,save.svg,save.png
+"Scale down operation","Activities / Strategy",U+EA1D,59933,scale-down-operation.svg,scale-down-operation.png
+"Scale up operation","Activities / Strategy",U+EA1E,59934,scale-up-operation.svg,scale-up-operation.png
+"School","General Infrastructure",U+EA1F,59935,school.svg,school.png
+"School affected","Damage",U+EA20,59936,school-affected.svg,school-affected.png
+"School closed","Lockdown",U+EA21,59937,school-closed.svg,school-closed.png
+"School destroyed","Damage",U+EA22,59938,school-destroyed.svg,school-destroyed.png
+"School not affected","Damage",U+EA23,59939,school-not-affected.svg,school-not-affected.png
+"Search","UX / UI",U+EA24,59940,search.svg,search.png
+"Search and rescue","Activities / Strategy",U+EA25,59941,search-and-rescue.svg,search-and-rescue.png
+"Secured","Security and Incident",U+EA74,60020,secured.svg,secured.png
+"Security","Security and Incident",U+EA75,60021,security.svg,security.png
+"See","UX / UI",U+EA26,59942,see.svg,see.png
+"Selected","UX / UI",U+EA27,59943,selected.svg,selected.png
+"Services and tools","Activities / Strategy",U+EA28,59944,services-and-tools.svg,services-and-tools.png
+"Settings","UX / UI",U+EA29,59945,settings.svg,settings.png
+"Sexual and reproductive health","Activities / Strategy",U+EA2A,59946,sexual-and-reproductive-health.svg,sexual-and-reproductive-health.png
+"Sexual violence","Security and Incident",U+EA2B,59947,sexual-violence.svg,sexual-violence.png
+"Share","UX / UI",U+EA2C,59948,share.svg,share.png
+"Shelter","Clusters",U+EA2D,59949,shelter.svg,shelter.png
+"Ship","Logistics",U+EA2E,59950,ship.svg,ship.png
+"Shower","Water, Sanitation and Health",U+EA2F,59951,shower.svg,shower.png
+"Smartphone","Telecommunications and Technology",U+EA30,59952,smartphone.svg,smartphone.png
+"Snow avalanche","Disaster / Hazards and Crises",U+EA31,59953,snow-avalanche.svg,snow-avalanche.png
+"Snowfall","Disaster / Hazards and Crises",U+EA32,59954,snowfall.svg,snowfall.png
+"Soap","Food and Non-Food Items",U+EA33,59955,soap.svg,soap.png
+"Solid waste","Water, Sanitation and Health",U+EA35,59957,solid-waste.svg,solid-waste.png
+"Spontaneous site","Camp",U+EA36,59958,spontaneous-site.svg,spontaneous-site.png
+"Spring water","Water, Sanitation and Health",U+EA37,59959,spring-water.svg,spring-water.png
+"Staff management","Activities / Strategy",U+EA38,59960,staff-management.svg,staff-management.png
+"Stop","UX / UI",U+EA39,59961,stop.svg,stop.png
+"Storm","Disaster / Hazards and Crises",U+EA3A,59962,storm.svg,storm.png
+"Storm surge","Disaster / Hazards and Crises",U+EA3B,59963,storm-surge.svg,storm-surge.png
+"Stove","Food and Non-Food Items",U+EA3C,59964,stove.svg,stove.png
+"Submersible pump","Water, Sanitation and Health",U+EA3D,59965,submersible-pump.svg,submersible-pump.png
+"Sugar","Food and Non-Food Items",U+EA3E,59966,sugar.svg,sugar.png
+"Table","Product Type",U+EA3F,59967,table.svg,table.png
+"Tarpaulin","Food and Non-Food Items",U+EA40,59968,tarpaulin.svg,tarpaulin.png
+"Technological disaster","Disaster / Hazards and Crises",U+EA41,59969,technological-disaster.svg,technological-disaster.png
+"Temporary camp","Camp",U+EA42,59970,temporary-camp.svg,temporary-camp.png
+"Tent","Food and Non-Food Items",U+EA43,59971,tent.svg,tent.png
+"Testing","Health",U+EA44,59972,testing.svg,testing.png
+"Time","UX / UI",U+EA76,60022,time.svg,time.png
+"Toilet","Water, Sanitation and Health",U+EA45,59973,toilet.svg,toilet.png
+"Top ranking","Activities / Strategy",U+EA46,59974,top-ranking.svg,top-ranking.png
+"Tornado","Disaster / Hazards and Crises",U+EA47,59975,tornado.svg,tornado.png
+"Trade and market","Socioeconomic and Development",U+EA48,59976,trade-and-market.svg,trade-and-market.png
+"Train","Logistics",U+EA49,59977,train.svg,train.png
+"Training","Activities / Strategy",U+EA4A,59978,training.svg,training.png
+"Transition site","Camp",U+EA4B,59979,transition-site.svg,transition-site.png
+"Trending","UX / UI",U+EA4C,59980,trending.svg,trending.png
+"Truck","Logistics",U+EA4D,59981,truck.svg,truck.png
+"Tsunami","Disaster / Hazards and Crises",U+EA4E,59982,tsunami.svg,tsunami.png
+"Tunnel","Logistics",U+EA4F,59983,tunnel.svg,tunnel.png
+"UN compound office","General Infrastructure",U+EA50,59984,un-compound-office.svg,un-compound-office.png
+"UN vehicle","Logistics",U+EA52,59986,un-vehicle.svg,un-vehicle.png
+"University","General Infrastructure",U+EA51,59985,university.svg,university.png
+"Up","UX / UI",U+EA53,59987,up.svg,up.png
+"Upload","UX / UI",U+EA54,59988,upload.svg,upload.png
+"Urban","Socioeconomic and Development",U+EA55,59989,urban.svg,urban.png
+"Urban rural","Socioeconomic and Development",U+EA56,59990,urban-rural.svg,urban-rural.png
+"User","UX / UI",U+EA57,59991,user.svg,user.png
+"Users","UX / UI",U+EA58,59992,users.svg,users.png
+"Vaccine","Food and Non-Food Items",U+EA59,59993,vaccine.svg,vaccine.png
+"Validate account","UX / UI",U+EA77,60023,validate-account.svg,validate-account.png
+"Ventilator","Health",U+EA5A,59994,ventilator.svg,ventilator.png
+"Video","Product Type",U+EA5B,59995,video.svg,video.png
+"Violent wind","Disaster / Hazards and Crises",U+EA5C,59996,violent-wind.svg,violent-wind.png
+"Virus","Health",U+EA5D,59997,virus.svg,virus.png
+"Volcano","Disaster / Hazards and Crises",U+EA5E,59998,volcano.svg,volcano.png
+"Walkie talkie","Telecommunications and Technology",U+EA5F,59999,walkie-talkie.svg,walkie-talkie.png
+"Warning error","UX / UI",U+EA60,60000,warning-error.svg,warning-error.png
+"Water sanitation and hygiene","Clusters",U+EA61,60001,water-sanitation-and-hygiene.svg,water-sanitation-and-hygiene.png
+"Water source","Water, Sanitation and Health",U+EA62,60002,water-source.svg,water-source.png
+"Water trucking","Water, Sanitation and Health",U+EA63,60003,water-trucking.svg,water-trucking.png
+"Work from home","Telecommunications and Technology",U+EA64,60004,work-from-home.svg,work-from-home.png
+"Worm infestation","Disaster / Hazards and Crises",U+EA65,60005,worm-infestation.svg,worm-infestation.png
+"XLSX file","UX / UI",U+EA78,60024,xlsx-file.svg,xlsx-file.png
+"ZIP compressed","UX / UI",U+EA66,60006,zip-compressed.svg,zip-compressed.png
